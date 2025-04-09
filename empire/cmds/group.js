@@ -1,1 +1,1579 @@
-function a0_0x3f2c(){const _0x3260dc=['✅\x20Welcome\x20messages\x20','BEGIN:VCARD\x0aVERSION:3.0\x0aFN:','❌\x20An\x20error\x20occurred\x20while\x20fetching\x20the\x20group\x20profile\x20picture.\x20Please\x20try\x20again\x20later.','✔️\x20*Group\x20description\x20updated\x20successfully!*','isPending','549544mdJuPt','/3!\x20Bots\x20are\x20not\x20allowed!',';;;\x0aTEL;TYPE=CELL:','participants','gjid','Joins\x20a\x20group\x20by\x20link','../../database/antiword','groupCreate','⚠️\x20*','hello\x20there','Reset\x20a\x20user\x27s\x20warnings.','join','✅\x20Group\x20contacts\x20have\x20been\x20saved\x20and\x20sent\x20as\x20a\x20vCard\x20file.','│\x20∘\x20No\x20admins','Error\x20promoting\x20user:','Set\x20a\x20custom\x20welcome\x20message','some','gdesc','getName','Provides\x20admin\x20role\x20to\x20replied/quoted\x20user','Use:\x20antitag\x20on/off','updateBlockStatus','❌\x20Error\x20deleting\x20the\x20message.','group_contacts.vcf','mute','updateProfilePicture','🖊️\x20*Please\x20write\x20the\x20new\x20Group\x20Subject*','Failed\x20to\x20leave\x20the\x20group.🤦🏽‍♂️','❌\x20Please\x20reply\x20to\x20the\x20message\x20you\x20want\x20to\x20delete.','unlocked','📢\x20Sending\x20Broadcast\x20To\x20','Get\x20group\x20invite\x20link.','*Error:\x20Unable\x20to\x20update\x20group\x20description!*','❌\x20You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command!','❌\x20An\x20error\x20occurred\x20while\x20processing\x20the\x20warn\x20command.','ginfo','\x0a╭───「\x20𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳\x20」───◆\x20\x20\x0a│\x20∘\x20𝙼𝚎𝚜𝚜𝚊𝚐𝚎:\x20','Create\x20a\x20new\x20group\x20and\x20add\x20participants.','23916387hhNZRY','🚫\x20*','12jEQnBX','error','Set\x20full-screen\x20profile\x20picture\x20for\x20groups.','slice','Warn\x20a\x20user\x20in\x20private\x20chat\x20or\x20group.\x20Kicks\x20after\x203\x20warnings.','Tags\x20every\x20admin\x20in\x20the\x20group.','*An\x20error\x20occurred\x20while\x20processing\x20your\x20request.*\x0a\x0a_Error:_\x20','All\x20members\x20have\x20been\x20unmuted\x20successfully.','.updategname','Save\x20all\x20group\x20members\x27\x20contacts\x20as\x20a\x20VCF.','Use:\x20antilink\x20warn/delete/kick/off','utf-8','promote','revoke','𝐓𝐡𝐢𝐬\x20𝐂𝐨𝐦𝐦𝐚𝐧𝐝\x20𝐈𝐬\x20𝐎𝐧𝐥𝐲\x20𝐅𝐨𝐫\x20𝐌𝐲\x20𝐎𝐰𝐧𝐞𝐫\x20⚠️','sendMessage','Adds\x20a\x20user\x20to\x20the\x20group.','block','\x20has\x20been\x20removed\x20from\x20the\x20group\x20due\x20to\x20excessive\x20warnings.','tag','remove','An\x20unexpected\x20error\x20occurred\x20while\x20trying\x20to\x20join\x20the\x20group.','Usage:\x20!newgc\x20group_name;number1,number2,...','groupAcceptInvite','*_I\x27m\x20not\x20an\x20admin,\x20so\x20I\x20can\x27t\x20take\x20action!_*','hidetag','reject','❌\x20Please\x20reply\x20to\x20the\x20user\x20whose\x20warnings\x20you\x20want\x20to\x20reset.','🚫\x20@','\x0a\x0aCommand:\x20broadcast','Check\x20the\x20warning\x20count\x20of\x20a\x20user.','\x20Groups...\x0a⏳\x20Estimated\x20Time:\x20','groupParticipantsUpdate','blank','created\x20group\x20with\x20id:\x20','🚫\x20*Bot\x20must\x20be\x20Admin\x20frist*','Failed\x20to\x20promote\x20the\x20user.\x20Ensure\x20I\x20have\x20the\x20necessary\x20permissions.','filter','✅\x20Welcome\x20message\x20has\x20been\x20updated!','✅\x20Antilink\x20mode\x20is\x20now\x20set\x20to\x20*','This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups.','profilePictureUrl','findOneAndUpdate','Invalid\x20link.\x20Please\x20provide\x20a\x20valid\x20WhatsApp\x20group\x20link.','\x0aEND:VCARD\x0a','❌\x20Provide\x20text\x20to\x20broadcast\x20in\x20all\x20groups!','🚫\x20*Bot\x20must\x20be\x20an\x20admin\x20first*','keys','welcome','upgdesc','Failed\x20to\x20demote\x20the\x20user.\x20Ensure\x20I\x20have\x20the\x20necessary\x20permissions.','🚫\x20*You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command*','disabled','Error\x20in\x20join\x20command:','\x20has\x20been\x20warned!\x0aReason:\x20','goodbye','An\x20error\x20occurred\x20while\x20trying\x20to\x20tag\x20all\x20members.','antibot','Get\x20the\x20list\x20of\x20JIDs\x20and\x20names\x20for\x20all\x20groups\x20the\x20bot\x20is\x20part\x20of.','Tags\x20every\x20person\x20in\x20the\x20group\x20without\x20showing\x20the\x20sender\x27s\x20name.','❌\x20Antitag\x20is\x20now\x20disabled!','This\x20command\x20is\x20only\x20for\x20groups.','Reject\x20all\x20participant\x20requests\x20in\x20the\x20group.','\x0aTotal\x20Warnings:\x20','⛔\x20*Group\x20link\x20has\x20been\x20reset\x20successfully!*','🖇️','An\x20error\x20occurred\x20while\x20trying\x20to\x20tag\x20the\x20admins.','svcontact','Enable\x20or\x20disable\x20anti-delete\x20feature','\x0a╭───「\x20𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳\x20」───◆\x20\x20\x0a│\x20∘\x20𝙶𝚛𝚘𝚞𝚙:\x20','Error\x20adding\x20user:','28LcKxpC','❌\x20You\x20must\x20be\x20an\x20owner\x20to\x20use\x20this\x20command!','🚨\x20*An\x20error\x20occurred\x20while\x20trying\x20to\x20tag\x20all\x20members.*','\x0a🆔\x20*JID:*\x20','https://chat.whatsapp.com/','download','participant','split','✅\x20Successfully\x20sent\x20broadcast\x20to\x20','broadcast','\x0a\x0aUse\x20*antibot\x20off/warn/delete/kick*\x20to\x20change\x20it.','Unmute\x20all\x20group\x20members.','remoteJid','push','⚠️\x20@','Failed\x20to\x20remove\x20the\x20user.\x20Ensure\x20I\x20have\x20the\x20necessary\x20permissions.','I\x20need\x20to\x20be\x20an\x20admin\x20to\x20perform\x20this\x20action.','body','Unknown','save',',\x20warning\x20','This\x20command\x20can\x20only\x20be\x20used\x20in\x20a\x20group.','\x20\x20\x0a│\x20∘\x20─────────────────\x20\x20\x0a','lockgcs','To\x20Change\x20the\x20group\x20name','Error\x20in\x20mute\x20command:','🖼️\x20Here\x20is\x20the\x20profile\x20picture\x20of\x20this\x20group\x20chat.','❌\x20You\x20need\x20to\x20be\x20an\x20admin\x20to\x20broadcast\x20in\x20this\x20group!','groupRequestParticipantsUpdate','🔓\x20*Group\x20settings\x20Unlocked*','❌\x20Please\x20reply\x20to\x20the\x20user\x20you\x20want\x20to\x20warn.','chat','\x22\x20to\x20restricted\x20words!','Private\x20Chat','\x0aN:','❌\x20Failed\x20to\x20update\x20group\x20profile\x20picture:\x20','setgpp','../../database/warn','rejectall','antidelete','No\x20Reason','groupMetadata','❌\x20Error:\x20','I\x20need\x20admin\x20privileges\x20to\x20add\x20users.','✅\x20Antitag\x20is\x20now\x20enabled!\x20Messages\x20with\x20excessive\x20mentions\x20will\x20be\x20deleted.','⚠️\x20No\x20profile\x20picture\x20found\x20for\x20this\x20group.','add','catch','*,\x20links\x20are\x20not\x20allowed!','tagadmin','User\x20has\x20been\x20removed\x20from\x20the\x20group\x20successfully.','*Error\x20!!*','🚫\x20*This\x20is\x20a\x20group-only\x20command*','groupUpdateSubject','❌\x20Could\x20not\x20find\x20the\x20user!','✅\x20Added:\x20\x22','Enable,\x20disable,\x20or\x20add\x20restricted\x20words','groupRevokeInvite','❌\x20Invalid\x20command!\x20Use:\x20antiword\x20on/off\x20<word>','replace','delete','../command','trim','reason','❌\x20Use:\x20chatbot\x20on/off','gname','../../database/antibot','whatsapp.com','locked','An\x20error\x20occurred\x20while\x20retrieving\x20the\x20group\x20information.','All\x20members\x20have\x20been\x20muted\x20successfully.','Error\x20in\x20invite\x20command:','Usage:\x20','✅\x20Chatbot\x20has\x20been\x20disabled\x20for\x20this\x20group!','An\x20error\x20occurred\x20while\x20adding\x20the\x20user.\x20Please\x20make\x20sure\x20the\x20number\x20is\x20correct\x20and\x20they\x20are\x20not\x20already\x20in\x20the\x20group.','../../database/antitag','🖊️\x20*Please\x20provide\x20the\x20new\x20group\x20description*','📜\x20*Use:*\x20\x0a\x0a','random','../../database/welcome','demote','!\x20Cute\x20couple!\x20💞','❌\x20Failed\x20to\x20save\x20group\x20contacts.\x20Please\x20try\x20again\x20later.','startsWith','group','🚫\x20*You\x20must\x20be\x20admin\x20frist*','⚠️\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20a\x20group\x20chat.','\x20\x20\x0a│\x20∘\x20𝙰𝚞𝚝𝚑𝚘𝚛:\x20','I\x20am\x20not\x20part\x20of\x20any\x20groups\x20yet.','*\x20has\x20been\x20kicked\x20for\x20posting\x20a\x20link!','List\x20all\x20pending\x20participant\x20requests\x20in\x20the\x20group.','*Error:\x20Unable\x20to\x20reset\x20the\x20group\x20link!*','match','toLowerCase','invite','2234ZHOxvd','Enable\x20or\x20disable\x20chatbot\x20in\x20a\x20group.','✅\x20@','subject','❌\x20Use:\x20.goodbye\x20on\x20/\x20.goodbye\x20off','findOne','*,\x20links\x20are\x20not\x20allowed!\x20You\x20now\x20have\x20*','❌\x20You\x20are\x20not\x20authorized\x20to\x20use\x20this\x20command.','\x27s\x20warnings\x20have\x20been\x20reset.','kick','Create\x20a\x20poll\x20with\x20a\x20question\x20and\x20options\x20in\x20the\x20group.','💖\x20I\x20randomly\x20ship\x20@','groupUpdateDescription','Please\x20provide\x20a\x20valid\x20WhatsApp\x20group\x20link.','\x20\x20\x0a│\x20∘\x20─────────────────\x0a','*Antibot\x20action\x20set\x20to:*\x20','𝐓𝐡𝐢𝐬\x20𝐅𝐞𝐚𝐭𝐮𝐫𝐞\x20𝐈𝐬\x20𝐎𝐧𝐥𝐲\x20𝐅𝐨𝐫\x20𝐆𝐫𝐨𝐮𝐩❗','Enable\x20or\x20disable\x20anti-tagging\x20in\x20the\x20group','Only\x20group\x20admins\x20can\x20use\x20this\x20command.','❌\x20Invalid\x20option!\x20Use:\x20chatbot\x20on/off','Set\x20anti-link\x20mode\x20(warn/delete/kick/off)','𝐏𝐥𝐞𝐚𝐬𝐞\x20𝐏𝐫𝐨𝐯𝐢𝐝𝐞\x20𝐌𝐞\x20𝐀𝐝𝐦𝐢𝐧\x20𝐑𝐨𝐥𝐞\x20❗','map','You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.','/3*\x20warnings.','❌\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups!','\x20participant(s)\x20have\x20been\x20accepted.','warn','\x20has\x20been\x20blocked\x20due\x20to\x20excessive\x20warnings.','Change\x20to\x20group\x20settings\x20to\x20only\x20admins\x20can\x20edit\x20group\x20info','\x20\x20\x0a│\x20∘\x20𝙰𝚍𝚖𝚒𝚗𝚜:\x20','❌\x20Not\x20enough\x20members\x20to\x20ship!','off','chatbot','Get\x20group\x20information.','Successfully\x20added\x20user:\x20','Enable\x20or\x20disable\x20welcome\x20messages','Change\x20to\x20group\x20settings\x20to\x20all\x20members\x20can\x20edit\x20group\x20info','upgname','❌\x20Use:\x20.antidelete\x20on\x20/\x20.antidelete\x20off','*🫟\x20ᴇxᴀᴍᴘʟᴇ:\x20.\x20ᴀɴᴛɪʙᴏᴛ\x20ᴏғғ/ᴡᴀʀɴ/ᴅᴇʟᴇᴛᴇ/ᴋɪᴄᴋ*','unmute','Unknown\x20error','resetglink','│\x20∘\x20\x20@','❌\x20An\x20error\x20occurred\x20while\x20checking\x20the\x20warnings.','.unlockgs','User\x20has\x20been\x20promoted\x20to\x20admin\x20successfully.','An\x20error\x20occurred\x20while\x20fetching\x20group\x20information.','Invalid\x20link\x20format.\x20Make\x20sure\x20it\x27s\x20a\x20full\x20WhatsApp\x20invite\x20link.','𝐃𝐨𝐧𝐞\x20✓','Bot\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.','No\x20admins\x20found\x20to\x20tag.','\x20\x20\x0a│\x20∘\x20𝙼𝚎𝚖𝚋𝚎𝚛𝚜:\x20','randomship','setgoodbye','acceptall','log','Use:\x20antiword\x20on/off\x20<word>','antilink','❌\x20@','user','\x20\x20\x0a│\x20∘\x20𝚃𝚘𝚝𝚊𝚕\x20𝙼𝚎𝚖𝚋𝚎𝚛𝚜:\x20','❌\x20Failed\x20to\x20join\x20the\x20group.\x20Please\x20ensure\x20the\x20link\x20is\x20correct\x20or\x20the\x20group\x20is\x20open\x20to\x20invites.','❌\x20Failed\x20to\x20send\x20broadcast\x20to\x20','5284272mKnYuw','Error\x20fetching\x20group\x20profile\x20picture:','../funcs','message',')\x20is\x20not\x20allowed\x20in\x20this\x20group!','❌\x20Use:\x20.welcome\x20on\x20/\x20.welcome\x20off','key','Demotes\x20replied/quoted\x20user\x20from\x20admin\x20role\x20in\x20the\x20group.','\x20groups!','not_announcement','An\x20error\x20occurred:\x20','Fetch\x20the\x20profile\x20picture\x20of\x20the\x20current\x20group\x20chat.','create','text/vcard','.lockgs','384654rgXmpu','\x20has\x20**','announcement','deleteMany','4293nlCSJW','groupSettingUpdate','@s.whatsapp.net','Randomly\x20ship\x20two\x20members\x20in\x20a\x20group.','\x20participant(s)\x20have\x20been\x20rejected.','Please\x20reply\x20to\x20a\x20message\x20or\x20provide\x20a\x20valid\x20number.','groupInviteCode','*\x20reached\x203\x20warnings\x20and\x20was\x20removed!','📌\x20*Name:*\x20','❌\x20You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command.','path','admin','sort','listrequest','includes','setwelcome','\x20seconds','groupFetchAllParticipating','Please\x20provide\x20a\x20valid\x20phone\x20number\x20to\x20add.','21510vrjIbx',',\x20mentioning\x20too\x20many\x20users\x20(','then','\x20\x20\x0a│\x20∘\x20𝙶𝚛𝚘𝚞𝚙\x20𝙸𝙳:\x20','\x20has\x20no\x20warnings.','✔️\x20*Group\x20name\x20Updated*','*Current\x20Antibot\x20Action:*\x20','❌\x20You\x20need\x20to\x20be\x20an\x20owner\x20to\x20use\x20this\x20command!','59eXxNtU','Kicks\x20replied/quoted\x20user\x20from\x20group.','warnCount','Error\x20demoting\x20user:','📝\x20*Group\x20Names\x20and\x20JIDs:*\x0a\x0a','tag\x20<your\x20message>','*Please\x20provide\x20at\x20least\x20two\x20options\x20for\x20the\x20poll.*','warnedby','enabled','To\x20change\x20the\x20group\x20description','fromMe','sender','resetwarn','../../config','../../database/antidelete','glink','4008490nwMBQt','❌\x20An\x20error\x20occurred\x20while\x20resetting\x20the\x20warnings.','User\x20has\x20been\x20demoted\x20from\x20admin\x20successfully.','poll\x20question;option1,option2,option3...','toUpperCase','🚫\x20*This\x20is\x20Group\x20Command*','length'];a0_0x3f2c=function(){return _0x3260dc;};return a0_0x3f2c();}function a0_0x1d57(_0x446bd0,_0x14b76e){const _0x3f2c79=a0_0x3f2c();return a0_0x1d57=function(_0x1d5760,_0x2448ee){_0x1d5760=_0x1d5760-0x193;let _0x5a8977=_0x3f2c79[_0x1d5760];return _0x5a8977;},a0_0x1d57(_0x446bd0,_0x14b76e);}const a0_0x5e893b=a0_0x1d57;(function(_0x116b9c,_0x395fad){const _0x56bd59=a0_0x1d57,_0xf5ea34=_0x116b9c();while(!![]){try{const _0x210e27=-parseInt(_0x56bd59(0x266))/0x1*(-parseInt(_0x56bd59(0x1f7))/0x2)+-parseInt(_0x56bd59(0x2aa))/0x3*(parseInt(_0x56bd59(0x282))/0x4)+parseInt(_0x56bd59(0x276))/0x5+-parseInt(_0x56bd59(0x247))/0x6*(parseInt(_0x56bd59(0x198))/0x7)+-parseInt(_0x56bd59(0x238))/0x8+parseInt(_0x56bd59(0x24b))/0x9*(-parseInt(_0x56bd59(0x25e))/0xa)+parseInt(_0x56bd59(0x2a8))/0xb;if(_0x210e27===_0x395fad)break;else _0xf5ea34['push'](_0xf5ea34['shift']());}catch(_0x4c8e7d){_0xf5ea34['push'](_0xf5ea34['shift']());}}}(a0_0x3f2c,0x8619d));const {cmd,commands}=require(a0_0x5e893b(0x1d5)),config=require(a0_0x5e893b(0x273)),prefix=config['PREFIX'],fs=require('fs'),{getBuffer,getGroupAdmins,getRandom,h2k,isUrl,Json,runtime,sleep,fetchJson,saveConfig,Catbox,monospace}=require(a0_0x5e893b(0x23a)),{writeFileSync}=require('fs'),path=require(a0_0x5e893b(0x255)),{warndb}=require(a0_0x5e893b(0x1bd)),{getAntilink,setAntilink,getUserWarns,addWarn,resetWarns}=require('../../database/antilink'),{getAntiwordData,setAntiwordStatus,addAntiword,removeAntiword}=require(a0_0x5e893b(0x288)),{getAntitagData,setAntitagStatus}=require(a0_0x5e893b(0x1e3)),Welcome=require(a0_0x5e893b(0x1e7)),Goodbye=require('../../database/goodbye'),AntiDelete=require(a0_0x5e893b(0x274)),AntiBot=require(a0_0x5e893b(0x1da)),Chatbot=require('../../database/chatbot');let warnCount={};cmd({'pattern':a0_0x5e893b(0x194),'desc':a0_0x5e893b(0x2b3),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x3fdf43,_0x2214a4,_0x51ef5f,{from:_0x223698,isOwner:_0x3f8ea4,isGroup:_0x5a405b,reply:_0x406134})=>{const _0x112d27=a0_0x5e893b;try{if(!_0x3f8ea4)return _0x406134('❌\x20You\x20are\x20not\x20the\x20owner!');if(!_0x5a405b)return _0x406134(_0x112d27(0x210));const _0xa21575=await _0x3fdf43[_0x112d27(0x1c1)](_0x223698);let _0xc3d58='';for(const _0x34075a of _0xa21575[_0x112d27(0x285)]){const _0x17af4d=_0x34075a['id'],_0x38ba44=await _0x3fdf43[_0x112d27(0x294)](_0x17af4d)||_0x112d27(0x1aa),_0x393da4=_0x17af4d[_0x112d27(0x19f)]('@')[0x0],_0x329aee='+'+_0x393da4,_0x30c19a=_0x112d27(0x27e)+_0x38ba44+_0x112d27(0x1ba)+_0x38ba44+_0x112d27(0x284)+_0x329aee+_0x112d27(0x2d6);_0xc3d58+=_0x30c19a+'\x0a';}const _0x37a1c8=Buffer['from'](_0xc3d58,_0x112d27(0x2b5));return await _0x3fdf43[_0x112d27(0x2b9)](_0x223698,{'document':_0x37a1c8,'fileName':_0x112d27(0x299),'mimetype':_0x112d27(0x245)},{'quoted':_0x51ef5f}),_0x406134(_0x112d27(0x28e));}catch(_0x4c9130){return console[_0x112d27(0x2ab)]('Error\x20in\x20svcontact\x20command:',_0x4c9130),_0x406134(_0x112d27(0x1ea));}}),cmd({'pattern':a0_0x5e893b(0x218),'desc':a0_0x5e893b(0x1f8),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x12ee4c,_0x465feb,_0x4eebb2,{from:_0x303720,isGroup:_0x393cfc,isOwner:_0x1552d8,args:_0xc93c5b,reply:_0x3269c3})=>{const _0x189e5f=a0_0x5e893b;if(!_0x393cfc)return _0x3269c3('❌\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups!');if(!_0x1552d8)return _0x3269c3(_0x189e5f(0x265));let _0x5f4703=await Chatbot[_0x189e5f(0x1fc)]({'groupId':_0x303720});if(!_0xc93c5b[0x0])return _0x3269c3(_0x189e5f(0x1d8));if(_0xc93c5b[0x0][_0x189e5f(0x1f5)]()==='on')return _0x5f4703?(_0x5f4703[_0x189e5f(0x26e)]=!![],await _0x5f4703['save']()):await Chatbot[_0x189e5f(0x244)]({'groupId':_0x303720,'enabled':!![]}),_0x3269c3('✅\x20Chatbot\x20has\x20been\x20enabled\x20for\x20this\x20group!');if(_0xc93c5b[0x0][_0x189e5f(0x1f5)]()===_0x189e5f(0x217))return _0x5f4703?(_0x5f4703[_0x189e5f(0x26e)]=![],await _0x5f4703[_0x189e5f(0x1ab)]()):await Chatbot['create']({'groupId':_0x303720,'enabled':![]}),_0x3269c3(_0x189e5f(0x1e1));_0x3269c3(_0x189e5f(0x20a));}),cmd({'pattern':a0_0x5e893b(0x2e3),'desc':'Enable\x20Antibot\x20and\x20set\x20action\x20(off/warn/delete/kick)','category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x130df5,_0x25f6b4,_0x2b0ec7,{q:_0x1010f5,isGroup:_0x1adea5,isAdmins:_0x50659a,reply:_0x60944})=>{const _0x20f380=a0_0x5e893b;if(!_0x1adea5)return _0x60944(_0x20f380(0x210));if(!isOwner)return _0x60944(_0x20f380(0x199));if(!_0x50659a)return _0x60944(_0x20f380(0x2a3));if(!_0x1010f5)return _0x60944(_0x20f380(0x264)+antibotAction[_0x20f380(0x27a)]()+_0x20f380(0x1a2));const _0x1ca17f=_0x1010f5[_0x20f380(0x1f5)]();return[_0x20f380(0x217),_0x20f380(0x212),_0x20f380(0x1d4),'kick'][_0x20f380(0x259)](_0x1ca17f)?(antibotAction=_0x1ca17f,_0x60944(_0x20f380(0x206)+_0x1ca17f[_0x20f380(0x27a)]())):_0x60944(_0x20f380(0x21f));}),cmd({'on':a0_0x5e893b(0x1a9)},async(_0x842844,_0x5d6dea,_0x3aa59f,{from:_0xf363df,isGroup:_0x36ebbd,sender:_0x32fd14,isBotAdmins:_0x32b846,isAdmins:_0x38cc88,reply:_0x26549e})=>{const _0x463027=a0_0x5e893b;if(!_0x36ebbd||antibotAction==='off')return;const _0x4df1bf=_0x5d6dea[_0x463027(0x23e)]['id'];if(!_0x4df1bf||!_0x4df1bf[_0x463027(0x1eb)]('3EB'))return;if(!_0x38cc88)return _0x26549e(_0x463027(0x2c2));if(_0x38cc88)return;await _0x842844[_0x463027(0x2b9)](_0xf363df,{'delete':_0x5d6dea[_0x463027(0x23e)]});switch(antibotAction){case'kick':await _0x842844[_0x463027(0x2ca)](_0xf363df,[_0x32fd14],'remove');break;case _0x463027(0x212):warnings[_0x32fd14]=(warnings[_0x32fd14]||0x0)+0x1;if(warnings[_0x32fd14]>=0x3)delete warnings[_0x32fd14],await _0x842844['groupParticipantsUpdate'](_0xf363df,[_0x32fd14],_0x463027(0x2be));else return _0x26549e(_0x463027(0x1a6)+_0x32fd14[_0x463027(0x19f)]('@')[0x0]+_0x463027(0x1ac)+warnings[_0x32fd14]+_0x463027(0x283),{'mentions':[_0x32fd14]});break;}}),cmd({'pattern':a0_0x5e893b(0x1bf),'desc':a0_0x5e893b(0x195),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x188da6,_0x2cb963,_0x6a6eea,{from:_0x22b11b,isOwner:_0x4b0441,isAdmins:_0xcbdd65,args:_0x56b4a4,reply:_0x8883bd})=>{const _0x518148=a0_0x5e893b;if(!_0x4b0441)return _0x8883bd(_0x518148(0x2a3));if(!_0x56b4a4[0x0]||!['on',_0x518148(0x217)][_0x518148(0x259)](_0x56b4a4[0x0][_0x518148(0x1f5)]()))return _0x8883bd(_0x518148(0x21e));const _0x3a91c6=_0x56b4a4[0x0]['toLowerCase']()==='on';await AntiDelete['findOneAndUpdate']({'chatId':_0x22b11b},{'enabled':_0x3a91c6},{'upsert':!![],'new':!![]}),_0x8883bd('✅\x20Anti-Delete\x20has\x20been\x20'+(_0x3a91c6?_0x518148(0x26e):'disabled')+'!');}),cmd({'pattern':a0_0x5e893b(0x25a),'desc':a0_0x5e893b(0x291),'category':'group','filename':__filename},async(_0x15b19e,_0x400558,_0xd13ba2,{from:_0x13f8be,isGroup:_0x43c799,isOwner:_0x493a61,q:_0x1dcc58,reply:_0x4f65e9})=>{const _0x5408e8=a0_0x5e893b;if(!_0x43c799)return _0x4f65e9('❌\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups!');if(!_0x493a61)return _0x4f65e9('❌\x20You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command!');if(!_0x1dcc58)return _0x4f65e9('❌\x20Provide\x20a\x20welcome\x20message!\x20Example:\x20.setwelcome\x20Welcome\x20@user\x20@pp,\x20check\x20group\x20rules!');await Welcome[_0x5408e8(0x2d4)]({'groupId':_0x13f8be},{'message':_0x1dcc58,'enabled':!![]},{'upsert':!![],'new':!![]}),_0x4f65e9(_0x5408e8(0x2d0));}),cmd({'pattern':a0_0x5e893b(0x22e),'desc':'Set\x20a\x20custom\x20goodbye\x20message','category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x23420c,_0x217821,_0x2bc9f5,{from:_0xaae6b7,isGroup:_0x1ead84,isOwner:_0x1dc3c9,q:_0x4be9b1,reply:_0x1d7580})=>{const _0x10de12=a0_0x5e893b;if(!_0x1ead84)return _0x1d7580(_0x10de12(0x210));if(!_0x1dc3c9)return _0x1d7580('❌\x20You\x20must\x20be\x20an\x20owner\x20to\x20use\x20this\x20command!');if(!_0x4be9b1)return _0x1d7580('❌\x20Provide\x20a\x20goodbye\x20message!\x20Example:\x20.setgoodbye\x20Goodbye\x20@user\x20@pp,\x20we\x20will\x20miss\x20you!');await Goodbye['findOneAndUpdate']({'groupId':_0xaae6b7},{'message':_0x4be9b1,'enabled':!![]},{'upsert':!![],'new':!![]}),_0x1d7580('✅\x20Goodbye\x20message\x20has\x20been\x20updated!');}),cmd({'pattern':a0_0x5e893b(0x2e1),'desc':'Enable\x20or\x20disable\x20goodbye\x20messages','category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x2fffbf,_0x5bc7af,_0x24100b,{from:_0x4a7b97,isGroup:_0x24e3fa,isOwner:_0x25e6ea,args:_0x4ca63a,reply:_0x3473c4})=>{const _0x22c68b=a0_0x5e893b;if(!_0x24e3fa)return _0x3473c4(_0x22c68b(0x210));if(!_0x25e6ea)return _0x3473c4(_0x22c68b(0x199));if(!_0x4ca63a[0x0]||!['on',_0x22c68b(0x217)][_0x22c68b(0x259)](_0x4ca63a[0x0][_0x22c68b(0x1f5)]()))return _0x3473c4(_0x22c68b(0x1fb));const _0xa7e134=_0x4ca63a[0x0][_0x22c68b(0x1f5)]()==='on';await Goodbye[_0x22c68b(0x2d4)]({'groupId':_0x4a7b97},{'enabled':_0xa7e134},{'upsert':!![],'new':!![]}),_0x3473c4('✅\x20Goodbye\x20messages\x20'+(_0xa7e134?_0x22c68b(0x26e):_0x22c68b(0x2de))+'!');}),cmd({'pattern':a0_0x5e893b(0x2da),'desc':a0_0x5e893b(0x21b),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x34a3f7,_0x235af3,_0x39770c,{from:_0x24726b,isGroup:_0x18dae0,isOwner:_0x1a92fb,args:_0x4b806a,reply:_0x3919bf})=>{const _0x4b46b9=a0_0x5e893b;if(!_0x18dae0)return _0x3919bf(_0x4b46b9(0x210));if(!_0x1a92fb)return _0x3919bf(_0x4b46b9(0x199));if(!_0x4b806a[0x0]||!['on',_0x4b46b9(0x217)][_0x4b46b9(0x259)](_0x4b806a[0x0][_0x4b46b9(0x1f5)]()))return _0x3919bf(_0x4b46b9(0x23d));const _0x2981d3=_0x4b806a[0x0][_0x4b46b9(0x1f5)]()==='on';await Welcome[_0x4b46b9(0x2d4)]({'groupId':_0x24726b},{'enabled':_0x2981d3},{'upsert':!![],'new':!![]}),_0x3919bf(_0x4b46b9(0x27d)+(_0x2981d3?_0x4b46b9(0x26e):_0x4b46b9(0x2de))+'!');}),cmd({'pattern':'antitag','desc':a0_0x5e893b(0x208),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x3292ad,_0x46b60f,_0x467a4f,{from:_0x27ec33,isGroup:_0x1c331f,isAdmins:_0x43758f,args:_0x222da8,reply:_0x2a0463})=>{const _0x50aade=a0_0x5e893b;if(!_0x1c331f)return _0x2a0463(_0x50aade(0x210));if(!_0x43758f)return _0x2a0463('❌\x20You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command!');const _0x4b8b6a=_0x222da8[0x0]?.[_0x50aade(0x1f5)]();if(!_0x4b8b6a)return _0x2a0463(_0x50aade(0x296));if(_0x4b8b6a==='on')return await setAntitagStatus(_0x27ec33,!![]),_0x2a0463(_0x50aade(0x1c4));else return _0x4b8b6a===_0x50aade(0x217)?(await setAntitagStatus(_0x27ec33,![]),_0x2a0463(_0x50aade(0x2e6))):_0x2a0463('❌\x20Invalid\x20option!\x20Use:\x20antitag\x20on/off');}),cmd({'on':a0_0x5e893b(0x1a9)},async(_0x4fce33,_0x3a2fd4,_0x3d0b85,{from:_0x3c281c,body:_0x1b1616,isGroup:_0x359df6,sender:_0x15db4a,reply:_0x6096c0})=>{const _0x3b1494=a0_0x5e893b;if(!_0x359df6)return;let _0x25ee9e=await getAntitagData(_0x3c281c);if(!_0x25ee9e['enabled'])return;let _0x355879=(_0x1b1616[_0x3b1494(0x1f4)](/@\d+/g)||[])[_0x3b1494(0x27c)];if(_0x355879>=0x3)return await _0x4fce33[_0x3b1494(0x2b9)](_0x3c281c,{'delete':_0x3a2fd4[_0x3b1494(0x23e)]}),_0x6096c0(_0x3b1494(0x2c6)+_0x15db4a[_0x3b1494(0x19f)]('@')[0x0]+_0x3b1494(0x25f)+_0x355879+_0x3b1494(0x23c));}),cmd({'pattern':'antiword','desc':a0_0x5e893b(0x1d0),'category':'group','filename':__filename},async(_0x1a89e4,_0x4b240c,_0x34fa8c,{from:_0x525ced,isGroup:_0x4a8087,isAdmins:_0x2bcd53,args:_0x4de450,reply:_0xe1c570})=>{const _0x5b1ae6=a0_0x5e893b;if(!_0x4a8087)return _0xe1c570(_0x5b1ae6(0x210));if(!_0x2bcd53)return _0xe1c570('❌\x20You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command!');const _0x293729=_0x4de450[0x0]?.[_0x5b1ae6(0x1f5)](),_0x454521=_0x4de450[_0x5b1ae6(0x2ad)](0x1)[_0x5b1ae6(0x28d)]('\x20');if(!_0x293729)return _0xe1c570(_0x5b1ae6(0x231));if(_0x293729==='on')return await setAntiwordStatus(_0x525ced,!![]),_0xe1c570('✅\x20Antiword\x20is\x20now\x20enabled!\x20Messages\x20with\x20restricted\x20words\x20will\x20be\x20deleted.');else{if(_0x293729===_0x5b1ae6(0x217))return await setAntiwordStatus(_0x525ced,![]),_0xe1c570('❌\x20Antiword\x20is\x20now\x20disabled!');else return _0x454521?(await addAntiword(_0x525ced,_0x293729),_0xe1c570(_0x5b1ae6(0x1cf)+_0x293729+_0x5b1ae6(0x1b8))):_0xe1c570(_0x5b1ae6(0x1d2));}}),cmd({'on':a0_0x5e893b(0x1a9)},async(_0x44d351,_0x5d2ea9,_0x32d556,{from:_0x4b0ce2,isGroup:_0x2dc6bd,sender:_0x90f3a8,reply:_0x36e898})=>{const _0x546ad7=a0_0x5e893b;if(!_0x2dc6bd)return;let _0x4aafbf=await getAntiwordData(_0x4b0ce2);if(!_0x4aafbf[_0x546ad7(0x26e)])return;for(let _0x1fc994 of _0x4aafbf['words']){if(_0x32d556[_0x546ad7(0x1a9)][_0x546ad7(0x1f5)]()[_0x546ad7(0x259)](_0x1fc994))return await _0x44d351['sendMessage'](_0x4b0ce2,{'delete':_0x5d2ea9[_0x546ad7(0x23e)]}),_0x36e898(_0x546ad7(0x2c6)+_0x90f3a8[_0x546ad7(0x19f)]('@')[0x0]+',\x20bad\x20words\x20are\x20not\x20allowed\x20here!',{'mentions':[_0x90f3a8]});}}),cmd({'pattern':a0_0x5e893b(0x232),'desc':a0_0x5e893b(0x20b),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x1ce098,_0x49931c,_0x109d82,{from:_0x5ae6cc,args:_0x5c3f35,isGroup:_0x1facab,isAdmins:_0x4bb06f,reply:_0xf7f305})=>{const _0xe391b=a0_0x5e893b;if(!_0x1facab)return _0xf7f305(_0xe391b(0x210));if(!_0x4bb06f)return _0xf7f305('❌\x20You\x20must\x20be\x20an\x20admin\x20to\x20use\x20this\x20command!');const _0x4fafd5=_0x5c3f35[0x0]?.['toLowerCase']();if(![_0xe391b(0x212),_0xe391b(0x1d4),_0xe391b(0x200),_0xe391b(0x217)][_0xe391b(0x259)](_0x4fafd5))return _0xf7f305(_0xe391b(0x2b4));return await setAntilink(_0x5ae6cc,_0x4fafd5),_0xf7f305(_0xe391b(0x2d1)+_0x4fafd5+'*');}),cmd({'on':a0_0x5e893b(0x1a9)},async(_0x4627a5,_0x4aebc5,_0x1ef1f0,{from:_0xbedbff,body:_0x57a98c,isGroup:_0x35799b,sender:_0x35857e,isAdmins:_0x25e2ca,reply:_0x2c75d8})=>{const _0x3dd94f=a0_0x5e893b;if(!_0x35799b)return;if(_0x25e2ca)return;const _0x3d277f=await getAntilink(_0xbedbff);if(_0x3d277f===_0x3dd94f(0x217))return;if(isUrl(_0x57a98c)){if(_0x3d277f===_0x3dd94f(0x1d4))return await _0x4627a5['sendMessage'](_0xbedbff,{'delete':_0x4aebc5[_0x3dd94f(0x23e)]})[_0x3dd94f(0x1c7)](()=>{}),_0x2c75d8(_0x3dd94f(0x2a9)+_0x35857e+_0x3dd94f(0x1c8));if(_0x3d277f==='kick')return await _0x4627a5[_0x3dd94f(0x2ca)](_0xbedbff,[_0x35857e],_0x3dd94f(0x2be))[_0x3dd94f(0x1c7)](()=>{return _0x2c75d8('❌\x20I\x20need\x20admin\x20rights\x20to\x20kick\x20users.');}),_0x2c75d8(_0x3dd94f(0x2a9)+_0x35857e+_0x3dd94f(0x1f1));if(_0x3d277f===_0x3dd94f(0x212)){await addWarn(_0xbedbff,_0x35857e);let _0x11221b=await getUserWarns(_0xbedbff,_0x35857e);return _0x11221b>=0x3?(await _0x4627a5['groupParticipantsUpdate'](_0xbedbff,[_0x35857e],_0x3dd94f(0x2be))[_0x3dd94f(0x1c7)](()=>{return _0x2c75d8('❌\x20I\x20need\x20admin\x20rights\x20to\x20kick\x20users.');}),await resetWarns(_0xbedbff,_0x35857e),_0x2c75d8('🚫\x20*'+_0x35857e+_0x3dd94f(0x252))):_0x2c75d8(_0x3dd94f(0x28a)+_0x35857e+_0x3dd94f(0x1fd)+_0x11221b+_0x3dd94f(0x20f));}}}),cmd({'pattern':a0_0x5e893b(0x212),'desc':a0_0x5e893b(0x2ae),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x17029a,_0x50bf3b,_0x2d4b1e,{from:_0x1a9d11,quoted:_0x4b4960,body:_0x552659,isCmd:_0x112128,command:_0x2d5d66,args:_0x22fef4,q:_0x5091de,isGroup:_0x3c7443,sender:_0x19d13a,senderNumber:_0x528564,botNumber2:_0x404ebd,botNumber:_0x3a95be,pushname:_0x2118d3,isMe:_0x515cbf,isOwner:_0x1b111a,groupMetadata:_0x2bc984,groupName:_0x20fdda,participants:_0x5124c0,groupAdmins:_0x53a79e,isAdmins:_0x365230,reply:_0x3bcd60})=>{const _0x9ab949=a0_0x5e893b;try{if(_0x3c7443&&!_0x1b111a&&!_0x365230)return _0x3bcd60(_0x9ab949(0x1fe));if(!_0x4b4960)return _0x3bcd60(_0x9ab949(0x1b6));const _0xfe10fd=_0x4b4960[_0x9ab949(0x19e)]||_0x4b4960[_0x9ab949(0x1a4)]||_0x4b4960[_0x9ab949(0x271)]||null;if(!_0xfe10fd)return _0x3bcd60(_0x9ab949(0x1ce));const _0x13edd5=_0x3c7443?_0x1a9d11:'Private\x20Chat',_0x451596=_0x5091de?_0x5091de:_0x9ab949(0x1c0);let _0x35d5e2=await warndb[_0x9ab949(0x1fc)]({'id':_0xfe10fd,'group':_0x13edd5});!_0x35d5e2?_0x35d5e2=new warndb({'id':_0xfe10fd,'reason':_0x451596,'group':_0x13edd5,'warnedby':_0x19d13a,'warnCount':0x1}):(_0x35d5e2[_0x9ab949(0x1d7)]=_0x451596,_0x35d5e2[_0x9ab949(0x26d)]=_0x19d13a,_0x35d5e2['warnCount']+=0x1);await _0x35d5e2[_0x9ab949(0x1ab)]();let _0x4da7be=_0x35d5e2['warnCount'];_0x3bcd60(_0x9ab949(0x1a6)+_0xfe10fd[_0x9ab949(0x19f)]('@')[0x0]+_0x9ab949(0x2e0)+_0x451596+_0x9ab949(0x2e9)+_0x4da7be),_0x4da7be>=0x3&&(_0x3c7443?(await _0x17029a['groupParticipantsUpdate'](_0x1a9d11,[_0xfe10fd],_0x9ab949(0x2be)),_0x3bcd60(_0x9ab949(0x233)+_0xfe10fd[_0x9ab949(0x19f)]('@')[0x0]+_0x9ab949(0x2bc))):(await _0x17029a[_0x9ab949(0x297)](_0xfe10fd,_0x9ab949(0x2bb)),_0x3bcd60(_0x9ab949(0x233)+_0xfe10fd[_0x9ab949(0x19f)]('@')[0x0]+_0x9ab949(0x213))),await warndb['deleteMany']({'id':_0xfe10fd,'group':_0x13edd5}));}catch(_0x33b4cf){console[_0x9ab949(0x2ab)](_0x33b4cf),_0x3bcd60(_0x9ab949(0x2a4));}}),cmd({'pattern':'checkwarn','desc':a0_0x5e893b(0x2c8),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x5a973c,_0x3975a0,_0x1ec5b4,{from:_0x3103df,quoted:_0x3b64a9,body:_0x35438c,isCmd:_0x5d9284,command:_0x2ad635,args:_0x3210c8,q:_0x321125,isGroup:_0x99eebd,sender:_0xaf43f,senderNumber:_0x2eb719,botNumber2:_0x3f696a,botNumber:_0x1aef71,pushname:_0x39e28d,isMe:_0x61f0c4,isOwner:_0x5f05e4,groupMetadata:_0x87da08,groupName:_0x5a11bc,participants:_0x5be535,groupAdmins:_0xa54930,isAdmins:_0xd78c6e,reply:_0x26e21e})=>{const _0x2bdf53=a0_0x5e893b;try{if(!_0x3b64a9)return _0x26e21e('❌\x20Please\x20reply\x20to\x20the\x20user\x20whose\x20warnings\x20you\x20want\x20to\x20check.');const _0x4d980c=_0x3b64a9[_0x2bdf53(0x19e)]||_0x3b64a9[_0x2bdf53(0x1a4)]||_0x3b64a9[_0x2bdf53(0x271)]||null;if(!_0x4d980c)return _0x26e21e('❌\x20Could\x20not\x20find\x20the\x20user!');const _0x2d0a77=_0x99eebd?_0x3103df:_0x2bdf53(0x1b9);let _0x1d316a=await warndb[_0x2bdf53(0x1fc)]({'id':_0x4d980c,'group':_0x2d0a77});if(!_0x1d316a)return _0x26e21e(_0x2bdf53(0x1f9)+_0x4d980c['split']('@')[0x0]+'\x20has\x20**0\x20warnings**.');return _0x26e21e(_0x2bdf53(0x1a6)+_0x4d980c[_0x2bdf53(0x19f)]('@')[0x0]+_0x2bdf53(0x248)+_0x1d316a[_0x2bdf53(0x268)]+'\x20warnings**.\x0aReason:\x20'+_0x1d316a[_0x2bdf53(0x1d7)]+'\x0aWarned\x20by:\x20@'+_0x1d316a[_0x2bdf53(0x26d)][_0x2bdf53(0x19f)]('@')[0x0]);}catch(_0x117b18){console[_0x2bdf53(0x2ab)](_0x117b18),_0x26e21e(_0x2bdf53(0x224));}}),cmd({'pattern':a0_0x5e893b(0x272),'desc':a0_0x5e893b(0x28c),'category':'group','filename':__filename},async(_0x204b77,_0x943c36,_0x425691,{from:_0x1c244a,quoted:_0x38a0d2,body:_0x76b14e,isCmd:_0x234a0c,command:_0x290979,args:_0x1b0dfe,q:_0x3c7928,isGroup:_0xa48814,sender:_0x37afdd,senderNumber:_0x18cb72,botNumber2:_0x2eef80,botNumber:_0x362053,pushname:_0x3fdc4a,isMe:_0x20ea97,isOwner:_0x52f3b6,groupMetadata:_0x5de40e,groupName:_0x311e88,participants:_0x1befc5,groupAdmins:_0x370695,isAdmins:_0x319165,reply:_0x478eae})=>{const _0x49bb3d=a0_0x5e893b;try{if(!_0x52f3b6&&!_0x319165)return _0x478eae('❌\x20You\x20are\x20not\x20authorized\x20to\x20use\x20this\x20command.');if(!_0x38a0d2)return _0x478eae(_0x49bb3d(0x2c5));const _0x3f3aa6=_0x38a0d2['participant']||_0x38a0d2['remoteJid']||_0x38a0d2['sender']||null;if(!_0x3f3aa6)return _0x478eae(_0x49bb3d(0x1ce));const _0x5063e5=_0xa48814?_0x1c244a:_0x49bb3d(0x1b9);let _0x460133=await warndb['findOne']({'id':_0x3f3aa6,'group':_0x5063e5});if(!_0x460133)return _0x478eae(_0x49bb3d(0x1f9)+_0x3f3aa6[_0x49bb3d(0x19f)]('@')[0x0]+_0x49bb3d(0x262));return await warndb[_0x49bb3d(0x24a)]({'id':_0x3f3aa6,'group':_0x5063e5}),_0x478eae(_0x49bb3d(0x1f9)+_0x3f3aa6[_0x49bb3d(0x19f)]('@')[0x0]+_0x49bb3d(0x1ff));}catch(_0x589ba4){console['error'](_0x589ba4),_0x478eae(_0x49bb3d(0x277));}}),cmd({'pattern':a0_0x5e893b(0x22f),'category':'group','desc':'Accept\x20all\x20participant\x20requests\x20in\x20the\x20group.','filename':__filename},async(_0x15b806,_0x7857cc,_0x2ef59b,{from:_0x58e878,isGroup:_0x2a814d,body:_0x300650,sender:_0x1f80e3,groupMetadata:_0x1e715c,participants:_0x29fb97,config:_0x14ad75,reply:_0x242c9c})=>{const _0x227770=a0_0x5e893b;try{if(!_0x2a814d)return _0x242c9c(_0x227770(0x2d2));const _0xcb9cfa=_0x58e878,_0x593c5a=_0x1e715c[_0x227770(0x285)],_0x45500f=_0x593c5a[_0x227770(0x2cf)](_0x13d2b5=>_0x13d2b5[_0x227770(0x281)]);if(_0x45500f[_0x227770(0x27c)]===0x0)return _0x242c9c('No\x20pending\x20participants\x20to\x20accept.');const _0x336ed4=_0x45500f[_0x227770(0x20d)](_0x563858=>_0x563858['id']),_0xc9cc6c=await _0x15b806[_0x227770(0x1b4)](_0xcb9cfa,_0x336ed4,'approve');console['log'](_0xc9cc6c),_0x242c9c(_0x336ed4['length']+_0x227770(0x211));}catch(_0x28f67c){return _0x242c9c(_0x227770(0x2b0)+_0x28f67c[_0x227770(0x23b)]);}}),cmd({'pattern':a0_0x5e893b(0x1be),'category':a0_0x5e893b(0x1ec),'desc':a0_0x5e893b(0x2e8),'filename':__filename},async(_0x4d0343,_0x2a47e3,_0x3b1ac8,{from:_0x563741,isGroup:_0x5094da,body:_0x998a33,sender:_0x1a5066,groupMetadata:_0x51856e,participants:_0x42e83e,config:_0x240c50,reply:_0x512ff8})=>{const _0x520546=a0_0x5e893b;try{if(!_0x5094da)return _0x512ff8(_0x520546(0x2d2));const _0x31f795=_0x563741,_0x53899a=_0x51856e[_0x520546(0x285)],_0x4bb66c=_0x53899a[_0x520546(0x2cf)](_0x2b8e52=>_0x2b8e52[_0x520546(0x281)]);if(_0x4bb66c[_0x520546(0x27c)]===0x0)return _0x512ff8('No\x20pending\x20participants\x20to\x20reject.');const _0x35bf0c=_0x4bb66c['map'](_0x10c06c=>_0x10c06c['id']),_0x22ef93=await _0x4d0343['groupRequestParticipantsUpdate'](_0x31f795,_0x35bf0c,_0x520546(0x2c4));console[_0x520546(0x230)](_0x22ef93),_0x512ff8(_0x35bf0c['length']+_0x520546(0x24f));}catch(_0x4bfcf0){return _0x512ff8(_0x520546(0x2b0)+_0x4bfcf0[_0x520546(0x23b)]);}}),cmd({'pattern':a0_0x5e893b(0x1d4),'desc':'Delete\x20a\x20quoted\x20message.','category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x315074,_0x55f52c,_0xbc9447,{from:_0x2b0e65,quoted:_0x3034cb,isOwner:_0x2915bf,isAdmins:_0xccaf5a,reply:_0x22c8da})=>{const _0x55d875=a0_0x5e893b;try{if(!_0x2915bf&&!_0xccaf5a)return _0x22c8da('❌\x20You\x20are\x20not\x20authorized\x20to\x20use\x20this\x20command.');if(!_0x3034cb)return _0x22c8da(_0x55d875(0x29e));const _0x2c9e5d={'remoteJid':_0x2b0e65,'fromMe':_0x3034cb[_0x55d875(0x270)],'id':_0x3034cb['id'],'participant':_0x3034cb[_0x55d875(0x271)]};await _0x315074['sendMessage'](_0x2b0e65,{'delete':_0x2c9e5d});}catch(_0x554e68){console[_0x55d875(0x230)](_0x554e68),_0x22c8da(_0x55d875(0x298));}}),cmd({'pattern':'poll','category':a0_0x5e893b(0x1ec),'desc':a0_0x5e893b(0x201),'filename':__filename},async(_0x4358f1,_0x3168a6,_0x11723b,{from:_0x173051,isGroup:_0xa62a21,body:_0x88a6a7,sender:_0x246604,groupMetadata:_0x4882ce,participants:_0x4e322d,prefix:_0x4668e3,pushname:_0x18ab19,reply:_0xf006e3})=>{const _0x1d101d=a0_0x5e893b;try{let [_0x502569,_0x2b1c24]=_0x88a6a7['split'](';');if(!_0x502569||!_0x2b1c24)return _0xf006e3(_0x1d101d(0x1e0)+_0x4668e3+_0x1d101d(0x279));let _0x43a766=[];for(let _0x2c110d of _0x2b1c24[_0x1d101d(0x19f)](',')){_0x2c110d&&_0x2c110d[_0x1d101d(0x1d6)]()!==''&&_0x43a766[_0x1d101d(0x1a5)](_0x2c110d[_0x1d101d(0x1d6)]());}if(_0x43a766[_0x1d101d(0x27c)]<0x2)return _0xf006e3(_0x1d101d(0x26c));await _0x4358f1[_0x1d101d(0x2b9)](_0x173051,{'poll':{'name':_0x502569,'values':_0x43a766,'selectableCount':0x1,'toAnnouncementGroup':!![]}},{'quoted':_0x3168a6});}catch(_0x1794a9){return _0xf006e3('*An\x20error\x20occurred\x20while\x20processing\x20your\x20request.*\x0a\x0a_Error:_\x20'+_0x1794a9['message']);}}),cmd({'pattern':a0_0x5e893b(0x22d),'desc':a0_0x5e893b(0x24e),'category':'group','react':'💞','filename':__filename},async(_0x59787e,_0x4ec6e8,_0x58dfc9,{from:_0x357afd,isGroup:_0x156a45,participants:_0x48a413,reply:_0x1aee7c})=>{const _0x55d0f7=a0_0x5e893b;try{if(!_0x156a45)return _0x1aee7c('❌\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups!');const _0x5eb395=_0x48a413[_0x55d0f7(0x2cf)](_0x40fbf2=>!_0x40fbf2[_0x55d0f7(0x256)]);if(_0x5eb395['length']<0x2)return _0x1aee7c(_0x55d0f7(0x216));const _0x5c9bae=_0x5eb395[_0x55d0f7(0x257)](()=>Math[_0x55d0f7(0x1e6)]()-0.5),_0x1a739b=_0x5c9bae[0x0]['id'],_0x43e60c=_0x5c9bae[0x1]['id'];_0x1aee7c(_0x55d0f7(0x202)+_0x1a739b[_0x55d0f7(0x19f)]('@')[0x0]+'\x20&\x20@'+_0x43e60c[_0x55d0f7(0x19f)]('@')[0x0]+_0x55d0f7(0x1e9),{'mentions':[_0x1a739b,_0x43e60c]});}catch(_0x321580){console[_0x55d0f7(0x2ab)](_0x321580),_0x1aee7c('❌\x20Error\x20processing\x20command.');}}),cmd({'pattern':'newgc','category':a0_0x5e893b(0x1ec),'desc':a0_0x5e893b(0x2a7),'filename':__filename},async(_0x8f45a0,_0x26b286,_0x22d96a,{from:_0x3f0437,isGroup:_0xf9398f,body:_0x547477,sender:_0x19b919,groupMetadata:_0xf9e3db,participants:_0xd4b544,reply:_0x3a5db3})=>{const _0x20578a=a0_0x5e893b;try{if(!_0x547477)return _0x3a5db3(_0x20578a(0x2c0));const [_0x48a011,_0x1e7c1a]=_0x547477[_0x20578a(0x19f)](';');if(!_0x48a011||!_0x1e7c1a)return _0x3a5db3(_0x20578a(0x2c0));const _0x58c300=_0x1e7c1a[_0x20578a(0x19f)](',')['map'](_0x4fc8b5=>_0x4fc8b5[_0x20578a(0x1d6)]()+'@s.whatsapp.net'),_0x8c73d=await _0x8f45a0[_0x20578a(0x289)](_0x48a011,_0x58c300);console[_0x20578a(0x230)](_0x20578a(0x2cc)+_0x8c73d['id']);const _0x24026c=await _0x8f45a0['groupInviteCode'](_0x8c73d['id']);await _0x8f45a0[_0x20578a(0x2b9)](_0x8c73d['id'],{'text':_0x20578a(0x28b)}),_0x3a5db3('Group\x20created\x20successfully\x20with\x20invite\x20link:\x20https://chat.whatsapp.com/'+_0x24026c+'\x0aWelcome\x20message\x20sent.');}catch(_0x53a514){return _0x3a5db3(_0x20578a(0x2b0)+_0x53a514['message']);}}),cmd({'pattern':a0_0x5e893b(0x28d),'desc':a0_0x5e893b(0x287),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x38e5eb,_0x4e48b4,_0x11fb24,{from:_0x354025,quoted:_0x36fc73,body:_0x3967e7,args:_0x1ebe39,q:_0x1b5f89,isOwner:_0x4161e2,reply:_0x4babcb})=>{const _0x344d5e=a0_0x5e893b;try{if(!_0x4161e2)return _0x4babcb(_0x344d5e(0x2b8));if(!_0x1ebe39[0x0])return _0x4babcb(_0x344d5e(0x204));const _0x7d65e2=_0x1ebe39[0x0];if(!_0x7d65e2[_0x344d5e(0x259)](_0x344d5e(0x1db)))return _0x4babcb(_0x344d5e(0x2d5));const _0x130a76=_0x7d65e2[_0x344d5e(0x19f)](_0x344d5e(0x19c))[0x1];if(!_0x130a76)return _0x4babcb(_0x344d5e(0x228));await _0x38e5eb[_0x344d5e(0x2c1)](_0x130a76)[_0x344d5e(0x260)](()=>_0x4babcb(_0x344d5e(0x229)))['catch'](_0x468fa2=>{const _0x11ccf4=_0x344d5e;console[_0x11ccf4(0x2ab)]('Error\x20joining\x20group:',_0x468fa2),_0x4babcb(_0x11ccf4(0x236));});}catch(_0x29ad4c){console[_0x344d5e(0x2ab)](_0x344d5e(0x2df),_0x29ad4c),_0x4babcb(_0x344d5e(0x2bf));}}),cmd({'pattern':a0_0x5e893b(0x258),'category':a0_0x5e893b(0x1ec),'desc':a0_0x5e893b(0x1f2),'filename':__filename},async(_0x3b37a9,_0x55965c,_0x9d95f7,{from:_0xfc809e,isGroup:_0x5bfbd6,body:_0x1a3d8a,sender:_0x2811a7,groupMetadata:_0x3b4a91,participants:_0x49e32c,config:_0x1254c6,reply:_0xf35f2d})=>{const _0x11e1b7=a0_0x5e893b;try{if(!_0x5bfbd6)return _0xf35f2d(_0x11e1b7(0x2d2));const _0x247dfc=_0xfc809e,_0xe95173=await _0x3b37a9['groupRequestParticipantsList'](_0x247dfc);console[_0x11e1b7(0x230)](_0xe95173);if(_0xe95173[_0x11e1b7(0x27c)]===0x0)return _0xf35f2d('No\x20pending\x20participant\x20requests\x20in\x20this\x20group.');const _0x46f68a=_0xe95173[_0x11e1b7(0x20d)](_0x2222d0=>_0x2222d0['id'][_0x11e1b7(0x19f)]('@')[0x0])[_0x11e1b7(0x28d)]('\x0a');return _0xf35f2d('Pending\x20participant\x20requests:\x0a'+_0x46f68a);}catch(_0x27e94f){return _0xf35f2d(_0x11e1b7(0x2b0)+_0x27e94f[_0x11e1b7(0x23b)]);}}),cmd({'pattern':'exit','desc':'Leaves\x20the\x20current\x20group','category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x1321ee,_0x102d3a,_0x1cf840,{from:_0x5b6e10,reply:_0x10a579})=>{const _0x1ea222=a0_0x5e893b;try{await _0x1321ee['groupLeave'](_0x5b6e10),_0x10a579('Successfully\x20left\x20the\x20group🙂.');}catch(_0x44a277){console[_0x1ea222(0x2ab)](_0x44a277),_0x10a579(_0x1ea222(0x29d));}}),cmd({'pattern':'kick','desc':a0_0x5e893b(0x267),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x539c45,_0x28f6d1,_0xda266a,{from:_0x41aa4b,quoted:_0xc8e8a1,args:_0xbd9030,isGroup:_0x37fb12,isBotAdmins:_0x3a6175,isAdmins:_0x1dac39,reply:_0xa84e2e})=>{const _0x5e9bcc=a0_0x5e893b;if(!_0x37fb12)return _0xa84e2e(_0x5e9bcc(0x2d2));if(!_0x1dac39)return _0xa84e2e(_0x5e9bcc(0x209));if(!_0x3a6175)return _0xa84e2e(_0x5e9bcc(0x1a8));try{let _0x442c40=_0xc8e8a1?_0xc8e8a1['sender']:_0xbd9030[0x0]?_0xbd9030[0x0][_0x5e9bcc(0x259)]('@')?_0xbd9030[0x0][_0x5e9bcc(0x1d3)](/[@]/g,'')+_0x5e9bcc(0x24d):_0xbd9030[0x0]+'@s.whatsapp.net':null;if(!_0x442c40)return _0xa84e2e(_0x5e9bcc(0x250));await _0x539c45[_0x5e9bcc(0x2ca)](_0x41aa4b,[_0x442c40],_0x5e9bcc(0x2be)),_0xa84e2e(_0x5e9bcc(0x1ca));}catch(_0x32c767){console[_0x5e9bcc(0x2ab)]('Error\x20kicking\x20user:',_0x32c767),_0xa84e2e(_0x5e9bcc(0x1a7));}}),cmd({'pattern':'add','desc':a0_0x5e893b(0x2ba),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x5830c9,_0x12602b,_0x118bed,{from:_0x13c0cd,quoted:_0x287493,body:_0xfcec21,isCmd:_0x1622c0,command:_0x511ae5,args:_0x492907,q:_0x119c5b,isGroup:_0x382e59,sender:_0x275bbd,senderNumber:_0x1e3fa3,botNumber2:_0x6dd5a,botNumber:_0x2d51e3,pushname:_0x1fdce6,isMe:_0x42d3a3,isOwner:_0xefa17,groupMetadata:_0x3a866e,groupName:_0xeaf672,participants:_0x14d954,groupAdmins:_0x26a0b7,isBotAdmins:_0x1473ff,isAdmins:_0x50f584,reply:_0x192185})=>{const _0x3de26c=a0_0x5e893b;try{if(!_0x382e59)return _0x192185(_0x3de26c(0x2e7));if(!_0x1473ff)return _0x192185(_0x3de26c(0x1c3));if(!_0x119c5b||isNaN(_0x119c5b))return _0x192185(_0x3de26c(0x25d));const _0x5e80a6=_0x119c5b+_0x3de26c(0x24d);if(_0x14d954[_0x3de26c(0x292)](_0x131bd9=>_0x131bd9['id']===_0x5e80a6))return _0x192185('The\x20user\x20is\x20already\x20in\x20the\x20group.');await _0x5830c9[_0x3de26c(0x2ca)](_0x13c0cd,[_0x5e80a6],_0x3de26c(0x1c6)),_0x192185(_0x3de26c(0x21a)+_0x119c5b);}catch(_0x5c25d2){console[_0x3de26c(0x2ab)](_0x3de26c(0x197),_0x5c25d2),_0x192185(_0x3de26c(0x1e2));}}),cmd({'pattern':a0_0x5e893b(0x29a),'alias':['silence'],'desc':'Mute\x20all\x20group\x20members.','category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x4f08eb,_0x4a5113,_0x239fad,{from:_0x160d2e,quoted:_0x57a0c6,body:_0x7ef4ca,args:_0x13bd20,q:_0x2c5b58,isGroup:_0x28802a,sender:_0x56e14c,reply:_0x34252b})=>{const _0xcb2f83=a0_0x5e893b;try{if(!_0x28802a)return _0x34252b(_0xcb2f83(0x207));const _0x564d36=_0x56e14c['split']('@')[0x0],_0x59124a=_0x4f08eb[_0xcb2f83(0x234)]['id'][_0xcb2f83(0x19f)](':')[0x0],_0x3e846c=_0x28802a?await _0x4f08eb['groupMetadata'](_0x160d2e):'',_0x10c0c1=_0x3e846c?_0x3e846c[_0xcb2f83(0x285)][_0xcb2f83(0x2cf)](_0x1c4820=>_0x1c4820[_0xcb2f83(0x256)]):[],_0x1af102=_0x28802a?_0x10c0c1[_0xcb2f83(0x292)](_0x43cced=>_0x43cced['id']===_0x59124a+_0xcb2f83(0x24d)):![];if(!_0x1af102)return _0x34252b(_0xcb2f83(0x20c));const _0x2a63da=_0x28802a?_0x10c0c1[_0xcb2f83(0x292)](_0x21102c=>_0x21102c['id']===_0x56e14c):![];if(!_0x2a63da)return _0x34252b(_0xcb2f83(0x20c));return await _0x4f08eb['groupSettingUpdate'](_0x160d2e,_0xcb2f83(0x249)),_0x34252b(_0xcb2f83(0x1de));}catch(_0x2376b1){console[_0xcb2f83(0x2ab)](_0xcb2f83(0x1b1),_0x2376b1),_0x34252b(_0xcb2f83(0x242)+(_0x2376b1[_0xcb2f83(0x23b)]||'Unknown\x20error'));}}),cmd({'pattern':a0_0x5e893b(0x220),'alias':['unsilence'],'desc':a0_0x5e893b(0x1a3),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x523fc5,_0x171736,_0x1be43c,{from:_0x5f338b,quoted:_0x414ccf,body:_0x941e73,args:_0x5f7909,q:_0x56bb47,isGroup:_0x119d12,sender:_0x37e733,reply:_0x4378d8})=>{const _0x3a151f=a0_0x5e893b;try{if(!_0x119d12)return _0x4378d8(_0x3a151f(0x207));const _0x471bed=_0x37e733[_0x3a151f(0x19f)]('@')[0x0],_0x23586a=_0x523fc5['user']['id'][_0x3a151f(0x19f)](':')[0x0],_0x564efa=_0x119d12?await _0x523fc5[_0x3a151f(0x1c1)](_0x5f338b):'',_0x16c2d9=_0x564efa?_0x564efa[_0x3a151f(0x285)][_0x3a151f(0x2cf)](_0x31980e=>_0x31980e['admin']):[],_0x45dec0=_0x119d12?_0x16c2d9[_0x3a151f(0x292)](_0x18c22d=>_0x18c22d['id']===_0x23586a+_0x3a151f(0x24d)):![];if(!_0x45dec0)return _0x4378d8('𝐏𝐥𝐞𝐚𝐬𝐞\x20𝐏𝐫𝐨𝐯𝐢𝐝𝐞\x20𝐌𝐞\x20𝐀𝐝𝐦𝐢𝐧\x20𝐑𝐨𝐥𝐞\x20❗');const _0x28ec9a=_0x119d12?_0x16c2d9[_0x3a151f(0x292)](_0x5485e4=>_0x5485e4['id']===_0x37e733):![];if(!_0x28ec9a)return _0x4378d8(_0x3a151f(0x20c));return await _0x523fc5[_0x3a151f(0x24c)](_0x5f338b,_0x3a151f(0x241)),_0x4378d8(_0x3a151f(0x2b1));}catch(_0xb63b76){console[_0x3a151f(0x2ab)]('Error\x20in\x20unmute\x20command:',_0xb63b76),_0x4378d8(_0x3a151f(0x242)+(_0xb63b76[_0x3a151f(0x23b)]||_0x3a151f(0x221)));}}),cmd({'pattern':a0_0x5e893b(0x2b6),'desc':a0_0x5e893b(0x295),'category':a0_0x5e893b(0x1ec),'filename':__filename,'use':'<quote|reply|number>'},async(_0x8fc5bc,_0x5b24a6,_0xa6ef92,{from:_0x30a095,quoted:_0x492b5a,args:_0x3fa236,isGroup:_0x3b83d3,sender:_0x4018a5,botNumber:_0x1f81b2,groupAdmins:_0x2b14b9,isBotAdmins:_0x282f6c,isAdmins:_0x572884,reply:_0xe7f3ca})=>{const _0x34394d=a0_0x5e893b;if(!_0x3b83d3)return _0xe7f3ca(_0x34394d(0x2d2));if(!_0x572884)return _0xe7f3ca(_0x34394d(0x209));if(!_0x282f6c)return _0xe7f3ca(_0x34394d(0x1a8));try{let _0xec45e2=_0x492b5a?_0x492b5a[_0x34394d(0x271)]:_0x3fa236[0x0]?_0x3fa236[0x0]['includes']('@')?_0x3fa236[0x0]['replace'](/[@]/g,'')+_0x34394d(0x24d):_0x3fa236[0x0]+_0x34394d(0x24d):null;if(!_0xec45e2)return _0xe7f3ca(_0x34394d(0x250));await _0x8fc5bc[_0x34394d(0x2ca)](_0x30a095,[_0xec45e2],'promote'),_0xe7f3ca(_0x34394d(0x226));}catch(_0x2b7cd3){console[_0x34394d(0x2ab)](_0x34394d(0x290),_0x2b7cd3),_0xe7f3ca(_0x34394d(0x2ce));}}),cmd({'pattern':a0_0x5e893b(0x1e8),'desc':a0_0x5e893b(0x23f),'category':a0_0x5e893b(0x1ec),'filename':__filename,'use':'<quote|reply|number>'},async(_0x333b03,_0x4a2c63,_0x5dcbbb,{from:_0xd187c7,quoted:_0x1a2e3e,args:_0x36a62f,isGroup:_0xbd7ce2,sender:_0x30974d,botNumber:_0x90aa48,groupAdmins:_0x38b909,isBotAdmins:_0x5e078e,isAdmins:_0x4f41d0,reply:_0x515fc1})=>{const _0x4a4fe3=a0_0x5e893b;if(!_0xbd7ce2)return _0x515fc1('This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups.');if(!_0x4f41d0)return _0x515fc1(_0x4a4fe3(0x209));if(!_0x5e078e)return _0x515fc1('I\x20need\x20to\x20be\x20an\x20admin\x20to\x20perform\x20this\x20action.');try{let _0x4823b0=_0x1a2e3e?_0x1a2e3e['sender']:_0x36a62f[0x0]?_0x36a62f[0x0][_0x4a4fe3(0x259)]('@')?_0x36a62f[0x0][_0x4a4fe3(0x1d3)](/[@]/g,'')+_0x4a4fe3(0x24d):_0x36a62f[0x0]+_0x4a4fe3(0x24d):null;if(!_0x4823b0)return _0x515fc1('Please\x20reply\x20to\x20a\x20message\x20or\x20provide\x20a\x20valid\x20number.');await _0x333b03['groupParticipantsUpdate'](_0xd187c7,[_0x4823b0],_0x4a4fe3(0x1e8)),_0x515fc1(_0x4a4fe3(0x278));}catch(_0x3f3167){console['error'](_0x4a4fe3(0x269),_0x3f3167),_0x515fc1(_0x4a4fe3(0x2dc));}}),cmd({'pattern':a0_0x5e893b(0x2bd),'category':a0_0x5e893b(0x1ec),'desc':'Tags\x20every\x20person\x20in\x20the\x20group\x20without\x20showing\x20the\x20sender\x27s\x20name.','filename':__filename},async(_0x1af8c9,_0x2e096d,_0x40f705,{from:_0x2168a1,quoted:_0xe649bf,body:_0x281476,isCmd:_0x5582f9,command:_0x3e0221,args:_0x21f894,q:_0x36f80b,isGroup:_0x2366f6,sender:_0xf1c167,senderNumber:_0x14eabf,botNumber:_0x4bba80,pushname:_0xd83241,groupMetadata:_0xae450d,participants:_0x2f3368,groupAdmins:_0x50c17e,isBotAdmins:_0xecbe57,isAdmins:_0x423216,reply:_0x286188})=>{const _0x2e4cca=a0_0x5e893b;try{if(!_0x2366f6)return _0x286188(_0x2e4cca(0x207));if(_0x21f894[_0x2e4cca(0x27c)]===0x0)return _0x286188(_0x2e4cca(0x1e5)+prefix+_0x2e4cca(0x26b));_0xae450d=await _0x1af8c9[_0x2e4cca(0x1c1)](_0x2168a1),_0x2f3368=_0xae450d[_0x2e4cca(0x285)];const _0x30b2c3=_0x21f894[_0x2e4cca(0x28d)]('\x20');await _0x1af8c9[_0x2e4cca(0x2b9)](_0x2168a1,{'text':''+_0x30b2c3,'mentions':_0x2f3368[_0x2e4cca(0x20d)](_0x531c57=>_0x531c57['id'])},{'quoted':_0x2e096d});}catch(_0x599e25){console[_0x2e4cca(0x2ab)](_0x599e25),_0x286188(_0x2e4cca(0x19a));}}),cmd({'pattern':'tagall','category':a0_0x5e893b(0x1ec),'desc':'Tags\x20every\x20person\x20in\x20the\x20group.','filename':__filename},async(_0x432746,_0x2bc424,_0x356c3f,{from:_0x587239,quoted:_0x165e0a,body:_0x3cf09a,isCmd:_0xa9d64,command:_0x43317d,args:_0x166b35,q:_0x1854f7,isGroup:_0x3e5f11,sender:_0x4ff2e2,senderNumber:_0x1a40e1,botNumber:_0x3e3aa7,pushname:_0x552548,groupMetadata:_0x20bad6,participants:_0x271142,groupAdmins:_0x5e3a34,isBotAdmins:_0x4fb82f,isAdmins:_0x55c814,reply:_0x35f348})=>{const _0x2c7c77=a0_0x5e893b;try{if(!_0x3e5f11)return _0x35f348(_0x2c7c77(0x207));let _0x2c4dde=_0x2c7c77(0x2a6)+(_0x166b35['join']('\x20')||'blank')+'\x20\x20\x0a│\x20∘\x20𝙰𝚞𝚝𝚑𝚘𝚛:\x20'+_0x552548+_0x2c7c77(0x22c)+_0x271142['length']+_0x2c7c77(0x205);for(let _0x5e7028 of _0x271142){_0x2c4dde+='│\x20∘\x20\x20@'+_0x5e7028['id'][_0x2c7c77(0x19f)]('@')[0x0]+'\x0a';}await _0x432746[_0x2c7c77(0x2b9)](_0x587239,{'text':_0x2c4dde,'mentions':_0x271142['map'](_0x4482af=>_0x4482af['id'])},{'quoted':_0x2bc424});}catch(_0x1b7950){console['log'](_0x1b7950),_0x35f348(_0x2c7c77(0x2e2));}}),cmd({'pattern':a0_0x5e893b(0x2c3),'category':'group','desc':a0_0x5e893b(0x2e5),'filename':__filename},async(_0x1cb61d,_0x5bd21c,_0x27a092,{from:_0x5677a3,quoted:_0x462a28,body:_0x2f9e21,isCmd:_0x1773a6,command:_0x595459,args:_0x159d63,q:_0x45c226,isGroup:_0x3638af,sender:_0x22aceb,senderNumber:_0x18cb5e,botNumber:_0x539c7e,pushname:_0x1f43fb,groupMetadata:_0x70df24,participants:_0x393489,groupAdmins:_0x597405,isBotAdmins:_0x10206a,isAdmins:_0x29e9ae,reply:_0x344a2a})=>{const _0xfc5b4f=a0_0x5e893b;try{if(!_0x3638af)return _0x344a2a('𝐓𝐡𝐢𝐬\x20𝐅𝐞𝐚𝐭𝐮𝐫𝐞\x20𝐈𝐬\x20𝐎𝐧𝐥𝐲\x20𝐅𝐨𝐫\x20𝐆𝐫𝐨𝐮𝐩❗');if(_0x159d63[_0xfc5b4f(0x27c)]===0x0)return _0x344a2a(_0xfc5b4f(0x1e5)+prefix+'hidetag\x20<your\x20message>');_0x70df24=await _0x1cb61d[_0xfc5b4f(0x1c1)](_0x5677a3),_0x393489=_0x70df24['participants'];const _0x5376d7=_0x159d63[_0xfc5b4f(0x28d)]('\x20');await _0x1cb61d[_0xfc5b4f(0x2b9)](_0x5677a3,{'text':''+_0x5376d7,'mentions':_0x393489['map'](_0x3aa1f0=>_0x3aa1f0['id'])},{'quoted':_0x5bd21c});}catch(_0x11012f){console[_0xfc5b4f(0x2ab)](_0x11012f),_0x344a2a('🚨\x20*An\x20error\x20occurred\x20while\x20trying\x20to\x20tag\x20all\x20members.*');}}),cmd({'pattern':a0_0x5e893b(0x1c9),'category':a0_0x5e893b(0x1ec),'desc':a0_0x5e893b(0x2af),'filename':__filename},async(_0x4e1f62,_0x31f5e8,_0x4b5b28,{from:_0x380fe2,quoted:_0x179e35,body:_0x441c8e,isCmd:_0x1bce37,command:_0x6ceeb2,args:_0x14b27c,q:_0x292e81,isGroup:_0x5a3b07,sender:_0x532f60,senderNumber:_0x1f716e,botNumber:_0x5e74ec,pushname:_0x373028,groupMetadata:_0x7d96c7,participants:_0x547571,groupAdmins:_0x103988,isBotAdmins:_0x49b28d,isAdmins:_0x7c0ae4,reply:_0x4577ef})=>{const _0x59f7fc=a0_0x5e893b;try{if(!_0x5a3b07)return _0x4577ef('𝐓𝐡𝐢𝐬\x20𝐅𝐞𝐚𝐭𝐮𝐫𝐞\x20𝐈𝐬\x20𝐎𝐧𝐥𝐲\x20𝐅𝐨𝐫\x20𝐆𝐫𝐨𝐮𝐩❗');let _0x11d378=_0x547571[_0x59f7fc(0x2cf)](_0x4d9e5f=>_0x103988['includes'](_0x4d9e5f['id']));if(_0x11d378[_0x59f7fc(0x27c)]===0x0)return _0x4577ef(_0x59f7fc(0x22b));let _0x591dec=_0x59f7fc(0x2a6)+(_0x14b27c[_0x59f7fc(0x28d)]('\x20')||_0x59f7fc(0x2cb))+_0x59f7fc(0x1ef)+_0x373028+_0x59f7fc(0x215)+_0x11d378[_0x59f7fc(0x27c)]+_0x59f7fc(0x205);for(let _0x252e63 of _0x11d378){_0x591dec+=_0x59f7fc(0x223)+_0x252e63['id'][_0x59f7fc(0x19f)]('@')[0x0]+'\x0a';}await _0x4e1f62[_0x59f7fc(0x2b9)](_0x380fe2,{'text':_0x591dec,'mentions':_0x11d378[_0x59f7fc(0x20d)](_0x48fe1c=>_0x48fe1c['id'])},{'quoted':_0x31f5e8});}catch(_0x5b6b33){console[_0x59f7fc(0x230)](_0x5b6b33),_0x4577ef(_0x59f7fc(0x193));}}),cmd({'pattern':a0_0x5e893b(0x1f6),'alias':[a0_0x5e893b(0x275)],'desc':a0_0x5e893b(0x2a1),'category':'group','filename':__filename},async(_0x37a699,_0x1f7b44,_0x123d25,{from:_0xac1f40,quoted:_0x5ceb38,body:_0x3803af,args:_0x2b2f4f,q:_0x1fe0ee,isGroup:_0x59d372,sender:_0x3bc91e,reply:_0x210d08})=>{const _0x195053=a0_0x5e893b;try{if(!_0x59d372)return _0x210d08(_0x195053(0x207));const _0x3359f6=_0x3bc91e[_0x195053(0x19f)]('@')[0x0],_0x1c703b=_0x37a699[_0x195053(0x234)]['id'][_0x195053(0x19f)](':')[0x0],_0x13fe82=_0x59d372?await _0x37a699[_0x195053(0x1c1)](_0xac1f40):'',_0x5e99c4=_0x13fe82?_0x13fe82[_0x195053(0x285)]['filter'](_0x172860=>_0x172860[_0x195053(0x256)]):[],_0x4b04b2=_0x59d372?_0x5e99c4['some'](_0x250a13=>_0x250a13['id']===_0x1c703b+'@s.whatsapp.net'):![];if(!_0x4b04b2)return _0x210d08(_0x195053(0x20c));const _0x44897e=_0x59d372?_0x5e99c4[_0x195053(0x292)](_0x3f503b=>_0x3f503b['id']===_0x3bc91e):![];if(!_0x44897e)return _0x210d08(_0x195053(0x20c));const _0x518fe6=await _0x37a699[_0x195053(0x251)](_0xac1f40);if(!_0x518fe6)return _0x210d08('Failed\x20to\x20retrieve\x20the\x20invite\x20code.');const _0xa0b856=_0x195053(0x19c)+_0x518fe6;return _0x210d08('*Here\x20is\x20your\x20group\x20invite\x20link:*\x0a'+_0xa0b856);}catch(_0x1396bb){console[_0x195053(0x2ab)](_0x195053(0x1df),_0x1396bb),_0x210d08(_0x195053(0x242)+(_0x1396bb['message']||'Unknown\x20error'));}}),cmd({'pattern':a0_0x5e893b(0x286),'desc':a0_0x5e893b(0x2e4),'category':a0_0x5e893b(0x1ec),'react':'📝','filename':__filename},async(_0x4673b4,_0x512d13,_0x2aa876,{from:_0x2ecd85,isOwner:_0x29be07,reply:_0x1bddf1})=>{const _0x3b8a0b=a0_0x5e893b;if(!_0x29be07)return _0x1bddf1(_0x3b8a0b(0x2b8));try{const _0x356554=await _0x4673b4[_0x3b8a0b(0x25c)]();if(!Object[_0x3b8a0b(0x2d9)](_0x356554)[_0x3b8a0b(0x27c)])return _0x1bddf1(_0x3b8a0b(0x1f0));let _0x5d6704=_0x3b8a0b(0x26a);for(const _0x19d3d0 in _0x356554){const _0x46ba75=_0x356554[_0x19d3d0];_0x5d6704+=_0x3b8a0b(0x253)+_0x46ba75[_0x3b8a0b(0x1fa)]+_0x3b8a0b(0x19b)+_0x19d3d0+'\x0a\x0a';}_0x1bddf1(_0x5d6704);}catch(_0x5866fc){console['error'](_0x5866fc),_0x1bddf1(_0x3b8a0b(0x227));}}),cmd({'pattern':'updategname','alias':[a0_0x5e893b(0x21d),a0_0x5e893b(0x1d9)],'desc':a0_0x5e893b(0x1b0),'category':a0_0x5e893b(0x1ec),'use':a0_0x5e893b(0x2b2),'filename':__filename},async(_0x1539ac,_0xb57143,_0x36b840,{from:_0x392d05,l:_0x1cf9a6,quoted:_0x1c525e,body:_0x37f5cd,isCmd:_0x520db9,command:_0x52d908,args:_0x5cad84,q:_0xad1b3d,isGroup:_0x404695,sender:_0x230890,senderNumber:_0x454643,botNumber2:_0x4cfc42,botNumber:_0xfb991c,pushname:_0x49f50a,isMe:_0x2f1163,isOwner:_0x1fa872,groupMetadata:_0x494983,groupName:_0xd394c,participants:_0x175f29,groupAdmins:_0x1d1085,isBotAdmins:_0x1a0179,isAdmins:_0x50b768,reply:_0x3863af})=>{const _0x35244d=a0_0x5e893b;try{if(!_0x404695)return _0x3863af(_0x35244d(0x1ad));if(!_0x1a0179)return _0x3863af(_0x35244d(0x22a));if(!_0x50b768)return _0x3863af(_0x35244d(0x20e));if(!_0xad1b3d)return _0x3863af(_0x35244d(0x29c));await _0x1539ac[_0x35244d(0x1cd)](_0x392d05,_0xad1b3d),await _0x1539ac[_0x35244d(0x2b9)](_0x392d05,{'text':_0x35244d(0x263)},{'quoted':_0xb57143});}catch(_0x241e8d){_0x3863af(_0x35244d(0x1cb)),_0x1cf9a6(_0x241e8d);}}),cmd({'pattern':'updategdesc','react':'🔓','alias':[a0_0x5e893b(0x2db),a0_0x5e893b(0x293)],'desc':a0_0x5e893b(0x26f),'category':'group','use':'.updategdesc','filename':__filename},async(_0x17d0c7,_0x3f564d,_0x397657,{from:_0x4a0d03,quoted:_0x300a67,body:_0x5b3286,args:_0x5557da,q:_0x54cff6,isGroup:_0x273d15,sender:_0x4fcba3,isBotAdmins:_0x3706db,isAdmins:_0x2ef012,reply:_0x5505a5})=>{const _0x6bc54a=a0_0x5e893b;try{if(!_0x273d15)return _0x5505a5('🚫\x20*This\x20is\x20a\x20group-only\x20command*');if(!_0x3706db)return _0x5505a5(_0x6bc54a(0x2d8));if(!_0x2ef012)return _0x5505a5(_0x6bc54a(0x2dd));if(!_0x54cff6)return _0x5505a5(_0x6bc54a(0x1e4));await _0x17d0c7[_0x6bc54a(0x203)](_0x4a0d03,_0x54cff6),await _0x17d0c7['sendMessage'](_0x4a0d03,{'text':_0x6bc54a(0x280)},{'quoted':_0x3f564d});}catch(_0x1db3d4){console[_0x6bc54a(0x2ab)](_0x1db3d4),_0x5505a5(_0x6bc54a(0x2a2));}}),cmd({'pattern':a0_0x5e893b(0x2b7),'react':a0_0x5e893b(0x2eb),'alias':[a0_0x5e893b(0x222)],'desc':'To\x20reset\x20the\x20group\x20link','category':a0_0x5e893b(0x1ec),'use':'.revoke','filename':__filename},async(_0x22555e,_0x80f29f,_0x2d6697,{from:_0x6a43a0,quoted:_0x3b9c60,isGroup:_0x3d672e,isBotAdmins:_0x29fa7c,isAdmins:_0x59bbbf,reply:_0x1fd26d})=>{const _0x1decfb=a0_0x5e893b;try{if(!_0x3d672e)return _0x1fd26d(_0x1decfb(0x1cc));if(!_0x29fa7c)return _0x1fd26d(_0x1decfb(0x2d8));if(!_0x59bbbf)return _0x1fd26d(_0x1decfb(0x2dd));await _0x22555e[_0x1decfb(0x1d1)](_0x6a43a0),await _0x22555e[_0x1decfb(0x2b9)](_0x6a43a0,{'text':_0x1decfb(0x2ea)},{'quoted':_0x80f29f});}catch(_0x3b7f12){console[_0x1decfb(0x2ab)](_0x3b7f12),_0x1fd26d(_0x1decfb(0x1f3));}}),cmd({'pattern':a0_0x5e893b(0x2a5),'desc':a0_0x5e893b(0x219),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0x5aacf5,_0x558058,_0x5630b3,{from:_0x5e9216,quoted:_0x4c3e96,body:_0x2eb66b,args:_0x5c8ecf,q:_0xe9cfcf,isGroup:_0x4cee86,sender:_0x6d9a2,reply:_0x540691})=>{const _0x3bbaca=a0_0x5e893b;try{if(!_0x4cee86)return _0x540691(_0x3bbaca(0x207));const _0x17c5ea=await _0x5aacf5['groupMetadata'](_0x5e9216),_0x37fd05=_0x17c5ea[_0x3bbaca(0x1fa)],_0x2d701c=_0x17c5ea[_0x3bbaca(0x285)][_0x3bbaca(0x2cf)](_0x13a314=>_0x13a314[_0x3bbaca(0x256)]),_0x329c93=_0x17c5ea['participants'][_0x3bbaca(0x27c)],_0x1587f6=_0x2d701c[_0x3bbaca(0x20d)](_0xe56d25=>_0x3bbaca(0x223)+_0xe56d25['id']['split']('@')[0x0])[_0x3bbaca(0x28d)]('\x0a')||_0x3bbaca(0x28f);let _0x2533a0=_0x3bbaca(0x196)+_0x37fd05+_0x3bbaca(0x261)+_0x5e9216+_0x3bbaca(0x235)+_0x329c93+_0x3bbaca(0x1ae)+_0x1587f6+'\x0a';await _0x5aacf5[_0x3bbaca(0x2b9)](_0x5e9216,{'text':_0x2533a0,'mentions':_0x2d701c[_0x3bbaca(0x20d)](_0x283605=>_0x283605['id'])},{'quoted':_0x558058});}catch(_0x1534ec){console[_0x3bbaca(0x2ab)]('Error\x20in\x20ginfo\x20command:',_0x1534ec),_0x540691(_0x3bbaca(0x1dd));}}),cmd({'pattern':a0_0x5e893b(0x1af),'desc':a0_0x5e893b(0x214),'category':a0_0x5e893b(0x1ec),'use':a0_0x5e893b(0x246),'filename':__filename},async(_0x23c5a2,_0x1e678c,_0x45b95b,{from:_0x45b1a8,l:_0x56fe2c,quoted:_0x252195,body:_0x416e9f,isCmd:_0x3c7dbc,command:_0x54f1bc,args:_0x5edf74,q:_0x1061ef,isGroup:_0x597be8,sender:_0x53a8cd,senderNumber:_0x3efb5f,botNumber2:_0x1a70d2,botNumber:_0x36f294,pushname:_0x4b7211,isMe:_0x3e76de,isOwner:_0x54790a,groupMetadata:_0x32eb8a,groupName:_0x2b8867,participants:_0xa97127,groupAdmins:_0x3280d8,isBotAdmins:_0x2aab03,isCreator:_0x3e1a8c,isDev:_0x4ec2b2,isAdmins:_0x2da362,reply:_0x8a3be9})=>{const _0x1fa092=a0_0x5e893b;try{if(!_0x597be8)return _0x8a3be9(_0x1fa092(0x27b));if(!_0x2aab03)return _0x8a3be9(_0x1fa092(0x2cd));if(!_0x2da362)return _0x8a3be9(_0x1fa092(0x1ed));await _0x23c5a2[_0x1fa092(0x24c)](_0x45b1a8,_0x1fa092(0x1dc)),await _0x23c5a2['sendMessage'](_0x45b1a8,{'text':'🔒\x20*Group\x20settings\x20Locked*'},{'quoted':_0x1e678c});}catch(_0x1a4919){_0x8a3be9(_0x1fa092(0x1cb)),_0x56fe2c(_0x1a4919);}}),cmd({'pattern':'unlockgcs','react':'🔓','desc':a0_0x5e893b(0x21c),'category':a0_0x5e893b(0x1ec),'use':a0_0x5e893b(0x225),'filename':__filename},async(_0x59204b,_0x5add88,_0x53e151,{from:_0x511231,l:_0x1b4735,quoted:_0x4f936e,body:_0x1ba255,isCmd:_0xdc9179,command:_0x3b50cf,args:_0x18c640,q:_0x477935,isGroup:_0x4be6f2,sender:_0x5c2457,senderNumber:_0x4d5538,botNumber2:_0x334538,botNumber:_0x5e27df,pushname:_0x566241,isMe:_0x542db4,isOwner:_0x99e917,groupMetadata:_0x720421,groupName:_0x27f134,participants:_0x1cc15b,groupAdmins:_0x51a37b,isBotAdmins:_0x30d6c3,isCreator:_0x419e50,isDev:_0x14950a,isAdmins:_0x37a232,reply:_0x2f14f1})=>{const _0x381465=a0_0x5e893b;try{if(!_0x4be6f2)return _0x2f14f1('🚫\x20*This\x20is\x20Group\x20command*');if(!_0x30d6c3)return _0x2f14f1(_0x381465(0x2cd));if(!_0x37a232)return _0x2f14f1('🚫\x20*You\x20must\x20be\x20admin\x20frist*');await _0x59204b['groupSettingUpdate'](_0x511231,_0x381465(0x29f)),await _0x59204b[_0x381465(0x2b9)](_0x511231,{'text':_0x381465(0x1b5)},{'quoted':_0x5add88});}catch(_0x1cbc30){_0x2f14f1(_0x381465(0x1cb)),_0x1b4735(_0x1cbc30);}}),cmd({'pattern':a0_0x5e893b(0x1a1),'category':a0_0x5e893b(0x1ec),'desc':'Bot\x20makes\x20a\x20broadcast\x20in\x20all\x20groups','filename':__filename,'use':'<text\x20for\x20broadcast.>'},async(_0x3dac70,_0x21054f,_0x25a456,{q:_0x4285fa,isGroup:_0x34f096,isAdmins:_0xa0d41,reply:_0xd14027})=>{const _0x514dba=a0_0x5e893b;try{if(!_0x34f096)return _0xd14027('❌\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20groups!');if(!_0xa0d41)return _0xd14027(_0x514dba(0x1b3));if(!_0x4285fa)return _0xd14027(_0x514dba(0x2d7));let _0x363fac=await _0x3dac70['groupFetchAllParticipating'](),_0x5e792e=Object[_0x514dba(0x2d9)](_0x363fac);_0xd14027(_0x514dba(0x2a0)+_0x5e792e[_0x514dba(0x27c)]+_0x514dba(0x2c9)+_0x5e792e[_0x514dba(0x27c)]*1.5+_0x514dba(0x25b));for(let _0x533bd3 of _0x5e792e){try{await sleep(0x5dc),await _0x3dac70[_0x514dba(0x2b9)](_0x533bd3,{'text':_0x4285fa});}catch(_0x4a6d95){console['log'](_0x514dba(0x237)+_0x533bd3+':',_0x4a6d95);}}return _0xd14027(_0x514dba(0x1a0)+_0x5e792e['length']+_0x514dba(0x240));}catch(_0x3cedae){await _0x25a456['error'](_0x514dba(0x1c2)+_0x3cedae+_0x514dba(0x2c7),_0x3cedae);}}),cmd({'pattern':a0_0x5e893b(0x1bc),'desc':a0_0x5e893b(0x2ac),'category':a0_0x5e893b(0x1ec),'filename':__filename},async(_0xb5dab0,_0x248641,_0x3bbbd1,{quoted:_0xe80593,isGroup:_0xbcc7d4,isAdmins:_0x35159a,isBotAdmins:_0x1328b6,reply:_0x250e11})=>{const _0x540a7f=a0_0x5e893b;if(!_0xbcc7d4)return _0x250e11('⚠️\x20This\x20command\x20can\x20only\x20be\x20used\x20in\x20a\x20group.');if(!_0x35159a)return _0x250e11(_0x540a7f(0x254));if(!_0xe80593||!_0xe80593['image'])return _0x250e11('⚠️\x20Reply\x20to\x20an\x20image\x20to\x20set\x20as\x20the\x20group\x20profile\x20picture.');try{let _0x376a8c=await _0xe80593[_0x540a7f(0x19d)]();await _0xb5dab0[_0x540a7f(0x29b)](_0x3bbbd1[_0x540a7f(0x1b7)],_0x376a8c),_0x250e11('✅\x20Group\x20profile\x20picture\x20updated\x20successfully.');}catch(_0x456da4){console['error'](_0x456da4),_0x250e11(_0x540a7f(0x1bb)+_0x456da4[_0x540a7f(0x23b)]);}}),cmd({'pattern':'getgpp','desc':a0_0x5e893b(0x243),'category':'group','filename':__filename},async(_0x378cb0,_0x5ccf53,_0xa24cb3,{isGroup:_0x533124,reply:_0x2ca4da})=>{const _0xb9f307=a0_0x5e893b;if(!_0x533124)return _0x2ca4da(_0xb9f307(0x1ee));try{const _0x641d62=await _0x378cb0[_0xb9f307(0x2d3)](_0xa24cb3[_0xb9f307(0x1b7)],'image')['catch'](()=>null);if(!_0x641d62)return _0x2ca4da(_0xb9f307(0x1c5));await _0x378cb0[_0xb9f307(0x2b9)](_0xa24cb3[_0xb9f307(0x1b7)],{'image':{'url':_0x641d62},'caption':_0xb9f307(0x1b2)});}catch(_0x48bb80){console[_0xb9f307(0x2ab)](_0xb9f307(0x239),_0x48bb80),_0x2ca4da(_0xb9f307(0x27f));}});
+const { cmd, commands } = require("../command");
+const config = require('../../config');
+const prefix = config.PREFIX;
+const fs = require('fs');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson, saveConfig, Catbox, monospace } = require('../funcs');
+const { writeFileSync } = require('fs');
+const path = require('path');
+const { warndb } = require("../../database/warn");
+const { getAntilink, setAntilink, getUserWarns, addWarn, resetWarns } = require("../../database/antilink");
+const { getAntiwordData, setAntiwordStatus, addAntiword, removeAntiword } = require("../../database/antiword");
+const { getAntitagData, setAntitagStatus } = require("../../database/antitag");
+const Welcome = require('../../database/welcome');
+const Goodbye = require('../../database/goodbye');
+const AntiDelete = require('../../database/antidelete');
+const Chatbot = require('../../database/chatbot');
+const AntiBot = require('../../database/antibot');
+
+cmd({
+    pattern: "antibot",
+    desc: "Enable Antibot and set action (off/warn/delete/kick)",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { q, isGroup, isAdmins, reply }) => {
+
+    if (!isGroup) return reply('❌ This command can only be used in groups!');
+    if (!isAdmins) return reply('❌ You must be an admin to use this command!');
+    const groupId = m.chat;
+
+    if (!q) {
+        const groupSettings = await AntiBot.findOne({ groupId });
+        const antibotAction = groupSettings ? groupSettings.enabled : 'off';
+        return reply(`*Current Antibot Action:* ${antibotAction.toUpperCase()}\n\nUse *antibot off/warn/delete/kick* to change it.`);
+    }
+
+    const action = q.toLowerCase();
+    if (["off", "warn", "delete", "kick"].includes(action)) {
+        await AntiBot.findOneAndUpdate(
+            { groupId },
+            { $set: { enabled: action !== 'off' } },
+            { upsert: true }
+        );
+        return reply(`*Antibot action set to:* ${action.toUpperCase()}`);
+    } else {
+        return reply("*🫟 Example: .antibot off/warn/delete/kick*");
+    }
+});
+
+cmd({
+    on: "body"
+}, async (conn, mek, m, { from, isGroup, sender, isAdmins, reply }) => {
+    if (!isGroup) return;
+
+    const groupId = m.chat;
+    const groupSettings = await AntiBot.findOne({ groupId });
+    const antibotAction = groupSettings ? (groupSettings.enabled ? 'warn' : 'off') : 'off';
+
+    if (antibotAction === "off") return;
+
+    const messageId = mek.key.id;
+    if (!messageId || !messageId.startsWith("3EB")) return;
+
+    if (!isAdmins) return reply("*_I'm not an admin, so I can't take action!_*");
+    if (isAdmins) return;
+
+    await conn.sendMessage(from, { delete: mek.key });
+
+    const userWarnings = groupSettings.warnings.get(sender) || 0;
+
+    switch (antibotAction) {
+        case "kick":
+            await conn.groupParticipantsUpdate(from, [sender], "remove");
+            break;
+
+        case "warn":
+            groupSettings.warnings.set(sender, userWarnings + 1);
+            await groupSettings.save();
+
+            if (groupSettings.warnings.get(sender) >= 3) {
+                groupSettings.warnings.delete(sender);
+                await groupSettings.save();
+                await conn.groupParticipantsUpdate(from, [sender], "remove");
+            } else {
+                return reply(`⚠️ @${sender.split("@")[0]}, warning ${groupSettings.warnings.get(sender)}/3! Bots are not allowed!`, { mentions: [sender] });
+            }
+            break;
+    }
+});
+
+
+
+cmd({  
+    pattern: "svcontact",  
+    desc: "Save all group members' contacts as a VCF.",  
+    category: "group",  
+    filename: __filename
+}, async (conn, mek, m, { from, isOwner, isGroup, reply }) => {
+    try {
+        if (!isOwner) return reply("❌ You are not the owner!");
+        if (!isGroup) return reply("❌ This command can only be used in groups!");
+
+        const groupMetadata = await conn.groupMetadata(from);
+        let vCards = '';
+
+        for (const participant of groupMetadata.participants) {
+            const jid = participant.id;
+            const name = await conn.getName(jid) || "Unknown";
+            const phoneNumber = jid.split('@')[0];
+            const formattedNumber = '+' + phoneNumber;
+
+            const card = `BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nN:${name};;;\nTEL;TYPE=CELL:${formattedNumber}\nEND:VCARD\n`;
+            vCards += card + '\n';
+        }
+
+        const vcfBuffer = Buffer.from(vCards, 'utf-8');
+        await conn.sendMessage(from, {
+            document: vcfBuffer,
+            fileName: 'group_contacts.vcf',
+            mimetype: 'text/vcard',
+        }, { quoted: m });
+
+        return reply("✅ Group contacts have been saved and sent as a vCard file.");
+    } catch (error) {
+        console.error("Error in svcontact command:", error);
+        return reply("❌ Failed to save group contacts. Please try again later.");
+    }
+});
+
+
+cmd({
+    pattern: "chatbot",
+    desc: "Enable or disable chatbot in a group.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { from, isGroup, isOwner, args, reply }) => {
+    if (!isGroup) return reply('❌ This command can only be used in groups!');
+    if (!isOwner) return reply('❌ You need to be an owner to use this command!');
+
+    let chatbotData = await Chatbot.findOne({ groupId: from });
+
+    if (!args[0]) return reply('❌ Use: chatbot on/off');
+
+    if (args[0].toLowerCase() === 'on') {
+        if (chatbotData) {
+            chatbotData.enabled = true;
+            await chatbotData.save();
+        } else {
+            await Chatbot.create({ groupId: from, enabled: true });
+        }
+        return reply('✅ Chatbot has been enabled for this group!');
+    } 
+
+    if (args[0].toLowerCase() === 'off') {
+        if (chatbotData) {
+            chatbotData.enabled = false;
+            await chatbotData.save();
+        } else {
+            await Chatbot.create({ groupId: from, enabled: false });
+        }
+        return reply('✅ Chatbot has been disabled for this group!');
+    }
+
+    reply('❌ Invalid option! Use: chatbot on/off');
+});
+
+
+cmd({
+  pattern: "antidelete",
+  desc: "Enable or disable anti-delete feature",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { from, isOwner, isAdmins, args, reply }) => {
+  if (!isOwner) return reply('❌ You must be an admin to use this command!');
+  if (!args[0] || !['on', 'off'].includes(args[0].toLowerCase())) 
+    return reply('❌ Use: .antidelete on / .antidelete off');
+
+  const enabled = args[0].toLowerCase() === 'on';
+
+  await AntiDelete.findOneAndUpdate(
+    { chatId: from },
+    { enabled },
+    { upsert: true, new: true }
+  );
+
+  reply(`✅ Anti-Delete has been ${enabled ? 'enabled' : 'disabled'}!`);
+});
+
+cmd({
+  pattern: "setwelcome",
+  desc: "Set a custom welcome message",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, isOwner, q, reply  }) => {
+  if (!isGroup) return reply('❌ This command can only be used in groups!');
+  if (!isOwner) return reply('❌ You must be an admin to use this command!');
+  if (!q) return reply('❌ Provide a welcome message! Example: .setwelcome Welcome @user @pp, check group rules!');
+
+  await Welcome.findOneAndUpdate(
+    { groupId: from },
+    { message: q, enabled: true },
+    { upsert: true, new: true }
+  );
+
+  reply('✅ Welcome message has been updated!');
+});
+
+cmd({
+  pattern: "setgoodbye",
+  desc: "Set a custom goodbye message",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, isOwner, q, reply }) => {
+  if (!isGroup) return reply('❌ This command can only be used in groups!');
+  if (!isOwner) return reply('❌ You must be an owner to use this command!');
+  if (!q) return reply('❌ Provide a goodbye message! Example: .setgoodbye Goodbye @user @pp, we will miss you!');
+
+  await Goodbye.findOneAndUpdate(
+    { groupId: from },
+    { message: q, enabled: true },
+    { upsert: true, new: true }
+  );
+
+  reply('✅ Goodbye message has been updated!');
+});
+
+cmd({
+  pattern: "goodbye",
+  desc: "Enable or disable goodbye messages",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, isOwner, args, reply }) => {
+  if (!isGroup) return reply('❌ This command can only be used in groups!');
+  if (!isOwner) return reply('❌ You must be an owner to use this command!');
+  if (!args[0] || !['on', 'off'].includes(args[0].toLowerCase())) 
+    return reply('❌ Use: .goodbye on / .goodbye off');
+
+  const enabled = args[0].toLowerCase() === 'on';
+
+  await Goodbye.findOneAndUpdate(
+    { groupId: from },
+    { enabled },
+    { upsert: true, new: true }
+  );
+
+  reply(`✅ Goodbye messages ${enabled ? 'enabled' : 'disabled'}!`);
+});
+
+cmd({
+  pattern: "welcome",
+  desc: "Enable or disable welcome messages",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, isOwner, args, reply }) => {
+  if (!isGroup) return reply('❌ This command can only be used in groups!');
+  if (!isOwner) return reply('❌ You must be an owner to use this command!');
+  if (!args[0] || !['on', 'off'].includes(args[0].toLowerCase())) 
+    return reply('❌ Use: .welcome on / .welcome off');
+
+  const enabled = args[0].toLowerCase() === 'on';
+
+  await Welcome.findOneAndUpdate(
+    { groupId: from },
+    { enabled },
+    { upsert: true, new: true }
+  );
+
+  reply(`✅ Welcome messages ${enabled ? 'enabled' : 'disabled'}!`);
+});
+
+
+
+cmd({
+    pattern: "antitag",
+    desc: "Enable or disable anti-tagging in the group",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { from, isGroup, isAdmins, args, reply }) => {
+    if (!isGroup) return reply("❌ This command can only be used in groups!");
+    if (!isAdmins) return reply("❌ You must be an admin to use this command!");
+
+    const option = args[0]?.toLowerCase();
+    if (!option) return reply("Use: antitag on/off");
+
+    if (option === "on") {
+        await setAntitagStatus(from, true);
+        return reply("✅ Antitag is now enabled! Messages with excessive mentions will be deleted.");
+    } 
+    else if (option === "off") {
+        await setAntitagStatus(from, false);
+        return reply("❌ Antitag is now disabled!");
+    } 
+    else {
+        return reply("❌ Invalid option! Use: antitag on/off");
+    }
+});
+
+cmd({
+    on: "body"
+}, async (conn, mek, m, { from, body, isGroup, sender, reply }) => {
+    if (!isGroup) return;
+
+    let data = await getAntitagData(from);
+    if (!data.enabled) return;
+
+    // Detect mentions using regex (WhatsApp mentions usually start with '@')
+    let mentionCount = (body.match(/@\d+/g) || []).length;
+
+    if (mentionCount >= 3) {
+
+        await conn.sendMessage(from, { delete: mek.key });
+        return reply(`🚫 @${sender.split("@")[0]}, mentioning too many users (${mentionCount}) is not allowed in this group!`);
+    }
+});
+
+cmd({
+    pattern: "antiword",
+    desc: "Enable, disable, or add restricted words",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { from, isGroup, isAdmins, args, reply }) => {
+    if (!isGroup) return reply("❌ This command can only be used in groups!");
+    if (!isAdmins) return reply("❌ You must be an admin to use this command!");
+
+    const option = args[0]?.toLowerCase();
+    const word = args.slice(1).join(" ");
+
+    if (!option) return reply("Use: antiword on/off <word>");
+
+    if (option === "on") {
+        await setAntiwordStatus(from, true);
+        return reply("✅ Antiword is now enabled! Messages with restricted words will be deleted.");
+    } 
+    else if (option === "off") {
+        await setAntiwordStatus(from, false);
+        return reply("❌ Antiword is now disabled!");
+    } 
+    else if (word) {
+        await addAntiword(from, option);
+        return reply(`✅ Added: "${option}" to restricted words!`);
+    } 
+    else {
+        return reply("❌ Invalid command! Use: antiword on/off <word>");
+    }
+});
+
+cmd({
+    on: "body"
+}, async (conn, mek, m, { from, isGroup, sender, reply }) => {
+    if (!isGroup) return;
+
+    let data = await getAntiwordData(from);
+    if (!data.enabled) return;
+
+    for (let word of data.words) {
+        if (m.body.toLowerCase().includes(word)) {
+            await conn.sendMessage(from, { delete: mek.key });
+            return reply(`🚫 @${sender.split("@")[0]}, bad words are not allowed here!`, { mentions: [sender] });
+        }
+    }
+});
+
+cmd({
+    pattern: "antilink",
+    desc: "Set anti-link mode (warn/delete/kick/off)",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { from, args, isGroup, isAdmins, reply }) => {
+    if (!isGroup) return reply("❌ This command can only be used in groups!");
+    if (!isAdmins) return reply("❌ You must be an admin to use this command!");
+
+    const mode = args[0]?.toLowerCase();
+    if (!["warn", "delete", "kick", "off"].includes(mode)) return reply("Use: antilink warn/delete/kick/off");
+
+    await setAntilink(from, mode);
+    return reply(`✅ Antilink mode is now set to *${mode}*`);
+});
+
+cmd({
+    on: "body"
+}, async (conn, mek, m, { from, body, isGroup, sender, isAdmins, reply }) => {
+    if (!isGroup) return; // Works in groups only
+    if (isAdmins) return; // Don't punish admins
+
+    const mode = await getAntilink(from);
+    if (mode === "off") return; // Antilink is disabled
+
+    if (isUrl(body)) { // Check if the message contains a URL
+        if (mode === "delete") {
+            await conn.sendMessage(from, { delete: mek.key }).catch(() => {});
+            return reply(`🚫 *${sender}*, links are not allowed!`);
+        } 
+
+        if (mode === "kick") {
+            await conn.groupParticipantsUpdate(from, [sender], "remove").catch(() => {
+                return reply("❌ I need admin rights to kick users.");
+            });
+            return reply(`🚫 *${sender}* has been kicked for posting a link!`);
+        } 
+
+        if (mode === "warn") {
+            await addWarn(from, sender);
+            let warns = await getUserWarns(from, sender);
+
+            if (warns >= 3) {
+                await conn.groupParticipantsUpdate(from, [sender], "remove").catch(() => {
+                    return reply("❌ I need admin rights to kick users.");
+                });
+                await resetWarns(from, sender);
+                return reply(`🚫 *${sender}* reached 3 warnings and was removed!`);
+            } else {
+                return reply(`⚠️ *${sender}*, links are not allowed! You now have *${warns}/3* warnings.`);
+            }
+        }
+    }
+});
+
+cmd({
+    pattern: "warn",
+    desc: "Warn a user in private chat or group. Kicks after 3 warnings.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { 
+    from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, 
+    botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, 
+    participants, groupAdmins, isAdmins, reply 
+}) => {
+    try {
+        if (isGroup && !isOwner && !isAdmins) return reply("❌ You are not authorized to use this command.");
+        if (!quoted) return reply("❌ Please reply to the user you want to warn.");
+
+        const target = quoted.participant || quoted.remoteJid || quoted.sender || null;
+        if (!target) return reply("❌ Could not find the user!");
+
+        const chatType = isGroup ? from : "Private Chat";
+        const reason = q ? q : "No Reason";
+
+        let warnData = await warndb.findOne({ id: target, group: chatType });
+        if (!warnData) {
+            warnData = new warndb({ id: target, reason, group: chatType, warnedby: sender, warnCount: 1 });
+        } else {
+            warnData.reason = reason;
+            warnData.warnedby = sender;
+            warnData.warnCount += 1;
+        }
+
+        await warnData.save();
+
+        let warnCount = warnData.warnCount;
+        reply(`⚠️ @${target.split("@")[0]} has been warned!\nReason: ${reason}\nTotal Warnings: ${warnCount}`);
+
+        if (warnCount >= 3) {
+            if (isGroup) {
+                await conn.groupParticipantsUpdate(from, [target], "remove");
+                reply(`❌ @${target.split("@")[0]} has been removed from the group due to excessive warnings.`);
+            } else {
+                await conn.updateBlockStatus(target, "block");
+                reply(`❌ @${target.split("@")[0]} has been blocked due to excessive warnings.`);
+            }
+            await warndb.deleteMany({ id: target, group: chatType });
+        }
+    } catch (error) {
+        console.error(error);
+        reply("❌ An error occurred while processing the warn command.");
+    }
+});
+
+cmd({
+    pattern: "checkwarn",
+    desc: "Check the warning count of a user.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { 
+    from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, 
+    botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, 
+    participants, groupAdmins, isAdmins, reply 
+}) => {
+    try {
+        if (!quoted) return reply("❌ Please reply to the user whose warnings you want to check.");
+
+        const target = quoted.participant || quoted.remoteJid || quoted.sender || null;
+        if (!target) return reply("❌ Could not find the user!");
+
+        const chatType = isGroup ? from : "Private Chat";
+
+        let warnData = await warndb.findOne({ id: target, group: chatType });
+        if (!warnData) return reply(`✅ @${target.split("@")[0]} has **0 warnings**.`);
+
+      return reply(`⚠️ @${target.split("@")[0]} has **${warnData.warnCount} warnings**.\nReason: ${warnData.reason}\nWarned by: @${warnData.warnedby.split("@")[0]}`);
+    } catch (error) {
+        console.error(error);
+        reply("❌ An error occurred while checking the warnings.");
+    }
+});
+
+cmd({
+    pattern: "resetwarn",
+    desc: "Reset a user's warnings.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { 
+    from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, 
+    botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, 
+    participants, groupAdmins, isAdmins, reply 
+}) => {
+    try {
+        if (!isOwner && !isAdmins) return reply("❌ You are not authorized to use this command.");
+        if (!quoted) return reply("❌ Please reply to the user whose warnings you want to reset.");
+
+        const target = quoted.participant || quoted.remoteJid || quoted.sender || null;
+        if (!target) return reply("❌ Could not find the user!");
+
+        const chatType = isGroup ? from : "Private Chat";
+
+        let warnData = await warndb.findOne({ id: target, group: chatType });
+        if (!warnData) return reply(`✅ @${target.split("@")[0]} has no warnings.`);
+
+        await warndb.deleteMany({ id: target, group: chatType });
+   return reply(`✅ @${target.split("@")[0]}'s warnings have been reset.`);
+    } catch (error) {
+        console.error(error);
+        reply("❌ An error occurred while resetting the warnings.");
+    }
+});
+//--------------------------------------------
+// ACCEPT_ALL COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "acceptall",
+  category: "group",
+  desc: "Accept all participant requests in the group.",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, body, sender, groupMetadata, participants, config, reply }) => {
+  try {
+    if (!isGroup) {
+      return reply("This command can only be used in groups.");
+    }
+
+    const jid = from; // Group ID (from the message)
+    const groupParticipants = groupMetadata.participants; // List of participants in the group
+
+    const pendingRequests = groupParticipants.filter(p => p.isPending); // Filter pending participants
+
+    if (pendingRequests.length === 0) {
+      return reply("No pending participants to accept.");
+    }
+
+    const userJids = pendingRequests.map(p => p.id); // Get JIDs of the pending participants
+
+    const response = await conn.groupRequestParticipantsUpdate(jid, userJids, 'approve');
+    console.log(response);
+    reply(`${userJids.length} participant(s) have been accepted.`);
+  } catch (e) {
+    return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+  }
+});
+//--------------------------------------------
+// REJECT_ALL COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "rejectall",
+  category: "group",
+  desc: "Reject all participant requests in the group.",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, body, sender, groupMetadata, participants, config, reply }) => {
+  try {
+    if (!isGroup) {
+      return reply("This command can only be used in groups.");
+    }
+
+    const jid = from; // Group ID (from the message)
+    const groupParticipants = groupMetadata.participants; // List of participants in the group
+
+    const pendingRequests = groupParticipants.filter(p => p.isPending); // Filter pending participants
+
+    if (pendingRequests.length === 0) {
+      return reply("No pending participants to reject.");
+    }
+
+    const userJids = pendingRequests.map(p => p.id); // Get JIDs of the pending participants
+
+    const response = await conn.groupRequestParticipantsUpdate(jid, userJids, 'reject');
+    console.log(response);
+    reply(`${userJids.length} participant(s) have been rejected.`);
+  } catch (e) {
+    return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+  }
+});
+//--------------------------------------------
+//  ANTILINK COMMANDS
+//--------------------------------------------
+
+
+//--------------------------------------------
+//   DELETE COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "delete",
+    desc: "Delete a quoted message.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, isOwner, isAdmins, reply }) => {
+    try {
+        if (!isOwner && !isAdmins) return reply("❌ You are not authorized to use this command.");
+        if (!quoted) return reply("❌ Please reply to the message you want to delete.");
+
+        const key = {
+            remoteJid: from,
+            fromMe: quoted.fromMe,
+            id: quoted.id,
+            participant: quoted.sender,
+        };
+
+        await conn.sendMessage(from, { delete: key });
+    } catch (e) {
+        console.log(e);
+        reply("❌ Error deleting the message.");
+    }
+});
+//--------------------------------------------
+//   POLL COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "poll",
+  category: "group",
+  desc: "Create a poll with a question and options in the group.",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, body, sender, groupMetadata, participants, prefix, pushname, reply }) => {
+  try {
+    let [question, optionsString] = body.split(";");
+
+    if (!question || !optionsString) {
+      return reply(`Usage: ${prefix}poll question;option1,option2,option3...`);
+    }
+
+    let options = [];
+    for (let option of optionsString.split(",")) {
+      if (option && option.trim() !== "") {
+        options.push(option.trim());
+      }
+    }
+
+    if (options.length < 2) {
+      return reply("*Please provide at least two options for the poll.*");
+    }
+
+    await conn.sendMessage(from, {
+      poll: {
+        name: question,
+        values: options,
+        selectableCount: 1,
+        toAnnouncementGroup: true,
+      }
+    }, { quoted: mek });
+  } catch (e) {
+    return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+  }
+});
+//--------------------------------------------
+// RANDOM SHIP COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "ship",
+    desc: "Randomly ship two members in a group.",
+    category: "group",
+    react: "💞",
+    filename: __filename
+}, async (conn, mek, m, { from, isGroup, participants, reply }) => {
+    try {
+        if (!isGroup) return reply("❌ This command can only be used in groups!");
+
+        const members = participants.filter(p => !p.admin); // Exclude admins if needed
+        if (members.length < 2) return reply("❌ Not enough members to ship!");
+
+        const shuffled = members.sort(() => Math.random() - 0.5);
+        const user1 = shuffled[0].id;
+        const user2 = shuffled[1].id;
+
+        reply(`💖 I randomly ship @${user1.split("@")[0]} & @${user2.split("@")[0]}! Cute couple! 💞`, {
+            mentions: [user1, user2]
+        });
+
+    } catch (e) {
+        console.error(e);
+        reply("❌ Error processing command.");
+    }
+});
+//--------------------------------------------
+//  NEW_GC COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "newgc",
+  category: "group",
+  desc: "Create a new group and add participants.",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, body, sender, groupMetadata, participants, reply }) => {
+  try {
+    if (!body) {
+      return reply(`Usage: !newgc group_name;number1,number2,...`);
+    }
+
+    const [groupName, numbersString] = body.split(";");
+
+    if (!groupName || !numbersString) {
+      return reply(`Usage: !newgc group_name;number1,number2,...`);
+    }
+
+    const participantNumbers = numbersString.split(",").map(number => `${number.trim()}@s.whatsapp.net`);
+
+    const group = await conn.groupCreate(groupName, participantNumbers);
+    console.log('created group with id: ' + group.id); // Use group.id here
+
+    const inviteLink = await conn.groupInviteCode(group.id); // Use group.id to get the invite link
+
+    await conn.sendMessage(group.id, { text: 'hello there' });
+
+    reply(`Group created successfully with invite link: https://chat.whatsapp.com/${inviteLink}\nWelcome message sent.`);
+  } catch (e) {
+    return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+  }
+});
+//--------------------------------------------
+//  JOIN COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "join",                // Command pattern
+    desc: "Joins a group by link",  // Command description
+    category: "group",              // Already group
+    filename: __filename     // Current file reference
+}, async (conn, mek, m, { from, quoted, body, args, q, isOwner, reply }) => {
+    try {
+        // Check if the command is being used by the owner
+        if (!isOwner) return reply("𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️");
+
+        // Check if the URL is provided
+        if (!args[0]) return reply("Please provide a valid WhatsApp group link.");
+
+        // Validate if the link contains "whatsapp.com"
+        const groupLink = args[0];
+        if (!groupLink.includes("whatsapp.com")) {
+            return reply("Invalid link. Please provide a valid WhatsApp group link.");
+        }
+
+        // Extract the invite code from the link
+        const inviteCode = groupLink.split("https://chat.whatsapp.com/")[1];
+        if (!inviteCode) {
+            return reply("Invalid link format. Make sure it's a full WhatsApp invite link.");
+        }
+
+        // Attempt to join the group using the extracted invite code
+        await conn.groupAcceptInvite(inviteCode)
+            .then(() => reply("𝐃𝐨𝐧𝐞 ✓"))
+            .catch((err) => {
+                console.error("Error joining group:", err);
+                reply("❌ Failed to join the group. Please ensure the link is correct or the group is open to invites.");
+            });
+
+    } catch (e) {
+        console.error("Error in join command:", e);
+        reply("An unexpected error occurred while trying to join the group.");
+    }
+});
+//--------------------------------------------
+//  LIST_REQUEST COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "listrequest",
+  category: "group",
+  desc: "List all pending participant requests in the group.",
+  filename: __filename
+}, async (conn, mek, m, { from, isGroup, body, sender, groupMetadata, participants, config, reply }) => {
+  try {
+    if (!isGroup) {
+      return reply("This command can only be used in groups.");
+    }
+
+    const jid = from; // Group ID (from the message)
+
+    const response = await conn.groupRequestParticipantsList(jid);
+    console.log(response);
+
+    if (response.length === 0) {
+      return reply("No pending participant requests in this group.");
+    }
+
+    const pendingUsers = response
+      .map((user) => user.id.split('@')[0]) // Extract the phone number part from the JID
+      .join('\n'); // List of pending participants' phone numbers
+
+    return reply(`Pending participant requests:\n${pendingUsers}`);
+  } catch (e) {
+    return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+  }
+});
+//--------------------------------------------
+//  EXIT COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "exit",
+  desc: "Leaves the current group",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { from, reply }) => {
+  try {
+    // `from` is the group chat ID
+    await conn.groupLeave(from);
+    reply("Successfully left the group🙂.");
+  } catch (error) {
+    console.error(error);
+    reply("Failed to leave the group.🤦🏽‍♂️");
+  }
+});
+//--------------------------------------------
+//   KICK COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "kick",
+  desc: "Kicks replied/quoted user from group.",
+  category: "group",
+  filename: __filename
+}, async (conn, mek, m, { 
+  from, quoted, args, isGroup, isBotAdmins, isAdmins, reply 
+}) => {
+  if (!isGroup) {
+    return reply("This command can only be used in groups.");
+  }
+
+  if (!isAdmins) {
+    return reply("Only group admins can use this command.");
+  }
+
+  if (!isBotAdmins) {
+    return reply("I need to be an admin to perform this action.");
+  }
+
+  try {
+    let users = quoted 
+      ? quoted.sender 
+      : args[0] 
+        ? args[0].includes("@") 
+          ? args[0].replace(/[@]/g, "") + "@s.whatsapp.net" 
+          : args[0] + "@s.whatsapp.net" 
+        : null;
+
+    if (!users) {
+      return reply("Please reply to a message or provide a valid number.");
+    }
+
+    await conn.groupParticipantsUpdate(from, [users], "remove");
+    reply("User has been removed from the group successfully.");
+  } catch (error) {
+    console.error("Error kicking user:", error);
+    reply("Failed to remove the user. Ensure I have the necessary permissions.");
+  }
+});
+//--------------------------------------------
+//    ADD COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "add",
+    desc: "Adds a user to the group.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        // Check if the command is used in a group
+        if (!isGroup) return reply("This command is only for groups.");
+
+        // Check if the bot has admin privileges
+        if (!isBotAdmins) return reply("I need admin privileges to add users.");
+
+        // Ensure an argument (phone number) is provided
+        if (!q || isNaN(q)) return reply("Please provide a valid phone number to add.");
+
+        const userToAdd = `${q}@s.whatsapp.net`;  // Format the phone number
+
+        // Check if the user is already in the group
+        if (participants.some(participant => participant.id === userToAdd)) {
+            return reply("The user is already in the group.");
+        }
+
+        // Add the user to the group
+        await conn.groupParticipantsUpdate(from, [userToAdd], "add");
+
+        // Confirm the addition
+        reply(`Successfully added user: ${q}`);
+    } catch (e) {
+        console.error('Error adding user:', e);
+        reply('An error occurred while adding the user. Please make sure the number is correct and they are not already in the group.');
+    }
+});
+//--------------------------------------------
+//   MUTE COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "mute",
+    alias: ["silence"],
+    desc: "Mute all group members.",
+    category: "group", // Already group
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, body, args, q, isGroup, sender, reply }) => {
+    try {
+        // Ensure this is being used in a group
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // Get the sender's number
+        const senderNumber = sender.split('@')[0];
+        const botNumber = conn.user.id.split(':')[0];
+
+        // Check if the bot is an admin
+        const groupMetadata = isGroup ? await conn.groupMetadata(from) : '';
+        const groupAdmins = groupMetadata ? groupMetadata.participants.filter(member => member.admin) : [];
+        const isBotAdmins = isGroup ? groupAdmins.some(admin => admin.id === botNumber + '@s.whatsapp.net') : false;
+
+        if (!isBotAdmins) return reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 𝐑𝐨𝐥𝐞 ❗");
+
+        // Check if the sender is an admin
+        const isAdmins = isGroup ? groupAdmins.some(admin => admin.id === sender) : false;
+        if (!isAdmins) return reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 𝐑𝐨𝐥𝐞 ❗");
+
+        // Mute all participants
+        await conn.groupSettingUpdate(from, 'announcement');  // This mutes the group (only admins can send messages)
+
+        // Send confirmation reply
+        return reply("All members have been muted successfully.");
+
+    } catch (error) {
+        console.error("Error in mute command:", error);
+        reply(`An error occurred: ${error.message || "Unknown error"}`);
+    }
+});
+//--------------------------------------------
+//   UNMUTE COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "unmute",
+    alias: ["unsilence"],
+    desc: "Unmute all group members.",
+    category: "group", // Already group
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, body, args, q, isGroup, sender, reply }) => {
+    try {
+        // Ensure this is being used in a group
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // Get the sender's number
+        const senderNumber = sender.split('@')[0];
+        const botNumber = conn.user.id.split(':')[0];
+
+        // Check if the bot is an admin
+        const groupMetadata = isGroup ? await conn.groupMetadata(from) : '';
+        const groupAdmins = groupMetadata ? groupMetadata.participants.filter(member => member.admin) : [];
+        const isBotAdmins = isGroup ? groupAdmins.some(admin => admin.id === botNumber + '@s.whatsapp.net') : false;
+
+        if (!isBotAdmins) return reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 𝐑𝐨𝐥𝐞 ❗");
+
+        // Check if the sender is an admin
+        const isAdmins = isGroup ? groupAdmins.some(admin => admin.id === sender) : false;
+        if (!isAdmins) return reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 𝐑𝐨𝐥𝐞 ❗");
+
+        // Unmute all participants
+        await conn.groupSettingUpdate(from, 'not_announcement');  // This unmutes the group (everyone can send messages)
+
+        // Send confirmation reply
+        return reply("All members have been unmuted successfully.");
+
+    } catch (error) {
+        console.error("Error in unmute command:", error);
+        reply(`An error occurred: ${error.message || "Unknown error"}`);
+    }
+});
+//--------------------------------------------
+//  PROMOTE COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "promote",
+  desc: "Provides admin role to replied/quoted user",
+  category: "group",
+  filename: __filename,
+  use: "<quote|reply|number>"
+}, async (conn, mek, m, { 
+  from, quoted, args, isGroup, sender, botNumber, groupAdmins, isBotAdmins, isAdmins, reply 
+}) => {
+  if (!isGroup) {
+    return reply("This command can only be used in groups.");
+  }
+
+  if (!isAdmins) {
+    return reply("Only group admins can use this command.");
+  }
+
+  if (!isBotAdmins) {
+    return reply("I need to be an admin to perform this action.");
+  }
+
+  try {
+    let users = quoted 
+      ? quoted.sender 
+      : args[0] 
+        ? args[0].includes("@") 
+          ? args[0].replace(/[@]/g, "") + "@s.whatsapp.net" 
+          : args[0] + "@s.whatsapp.net" 
+        : null;
+
+    if (!users) {
+      return reply("Please reply to a message or provide a valid number.");
+    }
+
+    await conn.groupParticipantsUpdate(from, [users], "promote");
+    reply("User has been promoted to admin successfully.");
+  } catch (error) {
+    console.error("Error promoting user:", error);
+    reply("Failed to promote the user. Ensure I have the necessary permissions.");
+  }
+});
+//--------------------------------------------
+//  DEMOTE COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "demote",
+  desc: "Demotes replied/quoted user from admin role in the group.",
+  category: "group",
+  filename: __filename,
+  use: "<quote|reply|number>"
+}, async (conn, mek, m, { 
+  from, quoted, args, isGroup, sender, botNumber, groupAdmins, isBotAdmins, isAdmins, reply 
+}) => {
+
+  if (!isGroup) {
+    return reply("This command can only be used in groups.");
+  }
+
+  if (!isAdmins) {
+    return reply("Only group admins can use this command.");
+  }
+
+  if (!isBotAdmins) {
+    return reply("I need to be an admin to perform this action.");
+  }
+
+  try {
+    let users = quoted 
+      ? quoted.sender 
+      : args[0] 
+        ? args[0].includes("@") 
+          ? args[0].replace(/[@]/g, "") + "@s.whatsapp.net" 
+          : args[0] + "@s.whatsapp.net" 
+        : null;
+
+    if (!users) {
+      return reply("Please reply to a message or provide a valid number.");
+    }
+
+    await conn.groupParticipantsUpdate(from, [users], "demote");
+    reply("User has been demoted from admin successfully.");
+  } catch (error) {
+    console.error("Error demoting user:", error);
+    reply("Failed to demote the user. Ensure I have the necessary permissions.");
+  }
+});
+//--------------------------------------------
+//  TAG COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "tag",
+    category: "group",
+    desc: "Tags every person in the group without showing the sender's name.",
+    filename: __filename,
+}, async (conn, mek, m, { 
+    from, 
+    quoted, 
+    body, 
+    isCmd, 
+    command, 
+    args, 
+    q, 
+    isGroup, 
+    sender, 
+    senderNumber, 
+    botNumber, 
+    pushname, 
+    groupMetadata, 
+    participants, 
+    groupAdmins, 
+    isBotAdmins, 
+    isAdmins, 
+    reply
+}) => {
+    try {
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // If no message is provided, prompt the user to use the correct format
+        if (args.length === 0) {
+            return reply(`📜 *Use:* \n\n${prefix}tag <your message>`);
+        }
+
+        // Fetch group metadata to ensure participants are up-to-date
+        groupMetadata = await conn.groupMetadata(from);
+        participants = groupMetadata.participants;
+
+        // Get the message after the command (hidetag)
+        const message = args.join(' ');
+
+        // Send the message with mentions
+        await conn.sendMessage(from, {
+            text: `${message}`, // Send the message to tag everyone
+            mentions: participants.map(a => a.id), // Mentions all participants
+        }, { quoted: mek });
+
+    } catch (e) {
+        console.error(e);
+        reply("🚨 *An error occurred while trying to tag all members.*");
+    }
+});
+//--------------------------------------------
+//  TAG_ALL COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "tagall",
+    category: "group",
+    desc: "Tags every person in the group.",
+    filename: __filename,
+}, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber, pushname, groupMetadata, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        let textt = `
+╭───「 𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 」───◆  
+│ ∘ 𝙼𝚎𝚜𝚜𝚊𝚐𝚎: ${args.join(' ') || "blank"}  
+│ ∘ 𝙰𝚞𝚝𝚑𝚘𝚛: ${pushname}  
+│ ∘ 𝙼𝚎𝚖𝚋𝚎𝚛𝚜: ${participants.length}  
+│ ∘ ─────────────────
+`;
+
+        // Loop through participants and format mentions
+        for (let mem of participants) {
+            textt += `│ ∘  @${mem.id.split('@')[0]}\n`;
+        }
+
+        // Send the message with mentions
+        await conn.sendMessage(from, {
+            text: textt,
+            mentions: participants.map(a => a.id),
+        }, { quoted: mek });
+
+    } catch (e) {
+        console.log(e);
+        reply("An error occurred while trying to tag all members.");
+    }
+});
+//--------------------------------------------
+//  HIDE_TAG COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "hidetag",
+    category: "group",
+    desc: "Tags every person in the group without showing the sender's name.",
+    filename: __filename,
+}, async (conn, mek, m, { 
+    from, 
+    quoted, 
+    body, 
+    isCmd, 
+    command, 
+    args, 
+    q, 
+    isGroup, 
+    sender, 
+    senderNumber, 
+    botNumber, 
+    pushname, 
+    groupMetadata, 
+    participants, 
+    groupAdmins, 
+    isBotAdmins, 
+    isAdmins, 
+    reply
+}) => {
+    try {
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // If no message is provided, prompt the user to use the correct format
+        if (args.length === 0) {
+            return reply(`📜 *Use:* \n\n${prefix}hidetag <your message>`);
+        }
+
+        // Fetch group metadata to ensure participants are up-to-date
+        groupMetadata = await conn.groupMetadata(from);
+        participants = groupMetadata.participants;
+
+        // Get the message after the command (hidetag)
+        const message = args.join(' ');
+
+        // Send the message with mentions
+        await conn.sendMessage(from, {
+            text: `${message}`, // Send the message to tag everyone
+            mentions: participants.map(a => a.id), // Mentions all participants
+        }, { quoted: mek });
+
+    } catch (e) {
+        console.error(e);
+        reply("🚨 *An error occurred while trying to tag all members.*");
+    }
+});
+//--------------------------------------------
+// TAG_ADMIN COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "tagadmin",
+    category: "group",
+    desc: "Tags every admin in the group.",
+    filename: __filename,
+}, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber, pushname, groupMetadata, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // Filter out non-admins
+        let adminParticipants = participants.filter(mem => groupAdmins.includes(mem.id));
+
+        if (adminParticipants.length === 0) {
+            return reply("No admins found to tag.");
+        }
+
+        let textt = `
+╭───「 𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 」───◆  
+│ ∘ 𝙼𝚎𝚜𝚜𝚊𝚐𝚎: ${args.join(' ') || "blank"}  
+│ ∘ 𝙰𝚞𝚝𝚑𝚘𝚛: ${pushname}  
+│ ∘ 𝙰𝚍𝚖𝚒𝚗𝚜: ${adminParticipants.length}  
+│ ∘ ─────────────────
+`;
+
+        // Loop through admin participants and format mentions
+        for (let mem of adminParticipants) {
+            textt += `│ ∘  @${mem.id.split('@')[0]}\n`;
+        }
+
+        // Send the message with mentions
+        await conn.sendMessage(from, {
+            text: textt,
+            mentions: adminParticipants.map(a => a.id),
+        }, { quoted: mek });
+
+    } catch (e) {
+        console.log(e);
+        reply("An error occurred while trying to tag the admins.");
+    }
+});
+//--------------------------------------------
+//  INVITE COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "invite",
+    alias: ["glink"],
+    desc: "Get group invite link.",
+    category: "group", // Already group
+    filename: __filename,
+}, async (conn, mek, m, { from, quoted, body, args, q, isGroup, sender, reply }) => {
+    try {
+        // Ensure this is being used in a group
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // Get the sender's number
+        const senderNumber = sender.split('@')[0];
+        const botNumber = conn.user.id.split(':')[0];
+
+        // Check if the bot is an admin
+        const groupMetadata = isGroup ? await conn.groupMetadata(from) : '';
+        const groupAdmins = groupMetadata ? groupMetadata.participants.filter(member => member.admin) : [];
+        const isBotAdmins = isGroup ? groupAdmins.some(admin => admin.id === botNumber + '@s.whatsapp.net') : false;
+
+        if (!isBotAdmins) return reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 𝐑𝐨𝐥𝐞 ❗");
+
+        // Check if the sender is an admin
+        const isAdmins = isGroup ? groupAdmins.some(admin => admin.id === sender) : false;
+        if (!isAdmins) return reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 𝐑𝐨𝐥𝐞 ❗");
+
+        // Get the invite code and generate the link
+        const inviteCode = await conn.groupInviteCode(from);
+        if (!inviteCode) return reply("Failed to retrieve the invite code.");
+
+        const inviteLink = `https://chat.whatsapp.com/${inviteCode}`;
+
+        // Reply with the invite link
+        return reply(`*Here is your group invite link:*\n${inviteLink}`);
+
+    } catch (error) {
+        console.error("Error in invite command:", error);
+        reply(`An error occurred: ${error.message || "Unknown error"}`);
+    }
+});
+//--------------------------------------------
+//  GJID COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "gjid",
+    desc: "Get the list of JIDs and names for all groups the bot is part of.",
+    category: "group",
+    react: "📝",
+    filename: __filename,
+}, async (conn, mek, m, { from, isOwner, reply }) => {
+    if (!isOwner) return reply("𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️");
+
+    try {
+        // Fetch all groups the bot is part of
+        const groups = await conn.groupFetchAllParticipating();
+
+        if (!Object.keys(groups).length) {
+            return reply("I am not part of any groups yet.");
+        }
+
+        // Prepare the list of groups with names and JIDs
+        let groupList = "📝 *Group Names and JIDs:*\n\n";
+        for (const jid in groups) {
+            const group = groups[jid];
+            groupList += `📌 *Name:* ${group.subject}\n🆔 *JID:* ${jid}\n\n`;
+        }
+
+        // Send the formatted group list
+        reply(groupList);
+    } catch (err) {
+        console.error(err);
+        reply("An error occurred while fetching group information.");
+    }
+});
+//--------------------------------------------
+// UPDATE_GNAME COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "updategname",
+    alias: ["upgname","gname"],
+    desc: "To Change the group name",
+    category: "group",
+    use: '.updategname',
+    filename: __filename
+},
+async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins , isAdmins, reply}) => {
+try{
+
+if (!isGroup) return reply('This command can only be used in a group.')
+        if (!isBotAdmins) return reply('Bot must be an admin to use this command.')
+        if (!isAdmins) return reply('You must be an admin to use this command.')
+
+if (!q) return reply("🖊️ *Please write the new Group Subject*")
+await conn.groupUpdateSubject(from, q )
+ await conn.sendMessage(from , { text: `✔️ *Group name Updated*` }, { quoted: mek } )
+} catch (e) {
+reply('*Error !!*')
+l(e)
+}
+});
+//--------------------------------------------
+// UPDATE_GDESC COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "updategdesc",
+    react: "🔓",
+    alias: ["upgdesc", "gdesc"],
+    desc: "To change the group description",
+    category: "group",
+    use: ".updategdesc",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, body, args, q, isGroup, sender, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) {
+            return reply("🚫 *This is a group-only command*");
+        }
+        if (!isBotAdmins) {
+            return reply("🚫 *Bot must be an admin first*");
+        }
+        if (!isAdmins) {
+            return reply("🚫 *You must be an admin to use this command*");
+        }
+        if (!q) {
+            return reply("🖊️ *Please provide the new group description*");
+        }
+
+        await conn.groupUpdateDescription(from, q);
+        await conn.sendMessage(from, { text: `✔️ *Group description updated successfully!*` }, { quoted: mek });
+    } catch (e) {
+        console.error(e);
+        reply("*Error: Unable to update group description!*");
+    }
+});
+//--------------------------------------------
+//  REVOKE COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "revoke",
+    react: "🖇️",
+    alias: ["resetglink"],
+    desc: "To reset the group link",
+    category: "group",
+    use: ".revoke",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, isGroup, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isGroup) {
+            return reply("🚫 *This is a group-only command*");
+        }
+        if (!isBotAdmins) {
+            return reply("🚫 *Bot must be an admin first*");
+        }
+        if (!isAdmins) {
+            return reply("🚫 *You must be an admin to use this command*");
+        }
+
+        // Revoke the group invite link
+        await conn.groupRevokeInvite(from);
+        await conn.sendMessage(from, { text: `⛔ *Group link has been reset successfully!*` }, { quoted: mek });
+    } catch (e) {
+        console.error(e);
+        reply("*Error: Unable to reset the group link!*");
+    }
+});
+//--------------------------------------------
+//  GINFO COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "ginfo",
+    desc: "Get group information.",
+    category: "group",
+    filename: __filename,
+}, async (conn, mek, m, { from, quoted, body, args, q, isGroup, sender, reply }) => {
+    try {
+        if (!isGroup) return reply("𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐈𝐬 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐆𝐫𝐨𝐮𝐩❗");
+
+        // Get group metadata
+        const groupMetadata = await conn.groupMetadata(from);
+        const groupName = groupMetadata.subject;
+        const groupAdmins = groupMetadata.participants.filter(member => member.admin);
+        const memberCount = groupMetadata.participants.length;
+        const adminList = groupAdmins.map(admin => `│ ∘  @${admin.id.split('@')[0]}`).join("\n") || "│ ∘ No admins";
+
+        // Format the output
+        let textt = `
+╭───「 𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 」───◆  
+│ ∘ 𝙶𝚛𝚘𝚞𝚙: ${groupName}  
+│ ∘ 𝙶𝚛𝚘𝚞𝚙 𝙸𝙳: ${from}  
+│ ∘ 𝚃𝚘𝚝𝚊𝚕 𝙼𝚎𝚖𝚋𝚎𝚛𝚜: ${memberCount}  
+│ ∘ ─────────────────  
+${adminList}
+`;
+
+        // Send the group information
+        await conn.sendMessage(from, {
+            text: textt,
+            mentions: groupAdmins.map(a => a.id),
+        }, { quoted: mek });
+
+    } catch (error) {
+        console.error("Error in ginfo command:", error);
+        reply("An error occurred while retrieving the group information.");
+    }
+});
+
+cmd({
+    pattern: "lockgcs",
+    desc: "Change to group settings to only admins can edit group info",
+    category: "group",
+    use: '.lockgs',
+    filename: __filename
+},
+async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
+try{
+if (!isGroup) return reply('🚫 *This is Group Command*')
+if (!isBotAdmins) return reply('🚫 *Bot must be Admin frist*')
+if (!isAdmins) return reply('🚫 *You must be admin frist*') 
+await conn.groupSettingUpdate(from, 'locked')
+ await conn.sendMessage(from , { text: `🔒 *Group settings Locked*` }, { quoted: mek } )
+} catch (e) {
+reply('*Error !!*')
+l(e)
+}
+});
+
+//allow everyone to modify the group's settings -- like display picture etc.
+//await sock.groupSettingUpdate("abcd-xyz@g.us", 'unlocked')
+
+cmd({
+    pattern: "unlockgcs",
+    react: "🔓",
+    desc: "Change to group settings to all members can edit group info",
+    category: "group",
+    use: '.unlockgs',
+    filename: __filename
+},
+async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
+try{
+if (!isGroup) return reply('🚫 *This is Group command*')
+if (!isBotAdmins) return reply('🚫 *Bot must be Admin frist*')
+if (!isAdmins) return reply('🚫 *You must be admin frist*')
+await conn.groupSettingUpdate(from, 'unlocked')
+ await conn.sendMessage(from , { text: `🔓 *Group settings Unlocked*` }, { quoted: mek } )
+} catch (e) {
+reply('*Error !!*')
+l(e)
+}
+});
+//--------------------------------------------
+//           BROADCAST COMMANDS
+//--------------------------------------------
+cmd({
+  pattern: "broadcast",
+  category: "group",
+  desc: "Bot makes a broadcast in all groups",
+  filename: __filename,
+  use: "<text for broadcast.>"
+}, async (conn, mek, m, { q, isGroup, isAdmins, reply }) => {
+  try {
+    if (!isGroup) return reply("❌ This command can only be used in groups!");
+    if (!isAdmins) return reply("❌ You need to be an admin to broadcast in this group!");
+
+    if (!q) return reply("❌ Provide text to broadcast in all groups!");
+
+    let allGroups = await conn.groupFetchAllParticipating();
+    let groupIds = Object.keys(allGroups); // Extract group IDs
+
+    reply(`📢 Sending Broadcast To ${groupIds.length} Groups...\n⏳ Estimated Time: ${groupIds.length * 1.5} seconds`);
+
+    for (let groupId of groupIds) {
+      try {
+        await sleep(1500); // Avoid rate limits
+        await conn.sendMessage(groupId, { text: q }); // Sends only the provided text
+      } catch (err) {
+        console.log(`❌ Failed to send broadcast to ${groupId}:`, err);
+      }
+    }
+
+    return reply(`✅ Successfully sent broadcast to ${groupIds.length} groups!`);
+
+  } catch (err) {
+    await m.error(`❌ Error: ${err}\n\nCommand: broadcast`, err);
+  }
+});
+
+
+cmd({
+    pattern: "setgpp",
+    desc: "Set full-screen profile picture for groups.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { quoted, isGroup, isAdmins, reply }) => {
+    if (!isGroup) return reply("⚠️ This command can only be used in a group.");
+    if (!isAdmins) return reply("❌ You must be an admin to use this command.");
+    if (!quoted || !quoted.image) return reply("⚠️ Reply to an image to set as the group profile picture.");
+
+    try {
+        let media = await quoted.download();
+        await conn.updateProfilePicture(m.chat, media);
+        reply("✅ Group profile picture updated successfully.");
+    } catch (e) {
+        console.error(e);
+        reply(`❌ Failed to update group profile picture: ${e.message}`);
+    }
+});
+
+
+cmd({
+    pattern: "getgpp",
+    desc: "Fetch the profile picture of the current group chat.",
+    category: "group",
+    filename: __filename
+}, async (conn, mek, m, { isGroup, reply }) => {
+    if (!isGroup) return reply("⚠️ This command can only be used in a group chat.");
+
+    try {
+        // Fetch the group profile picture URL
+        const groupPicUrl = await conn.profilePictureUrl(m.chat, "image").catch(() => null);
+
+        if (!groupPicUrl) return reply("⚠️ No profile picture found for this group.");
+
+        // Send the group profile picture
+        await conn.sendMessage(m.chat, {
+            image: { url: groupPicUrl },
+            caption: "🖼️ Here is the profile picture of this group chat."
+        });
+    } catch (e) {
+        console.error("Error fetching group profile picture:", e);
+        reply("❌ An error occurred while fetching the group profile picture. Please try again later.");
+    }
+});
