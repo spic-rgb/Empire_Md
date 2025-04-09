@@ -12,7 +12,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "baileys": "6.7.16",
     "adm-zip": "0.5.16",
-    "gifted-baileys": "1.5.3",
+    "gifted-baileys": "1.5.6",
     "api-dylux": "1.8.5",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
