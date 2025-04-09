@@ -6,7 +6,7 @@
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------------------------------------
 
-const { proto, downloadContentFromMessage, getContentType } = require('gifted-baileys')
+const { proto, downloadContentFromMessage, getContentType } = require('baileys')
 const fs = require('fs')
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
