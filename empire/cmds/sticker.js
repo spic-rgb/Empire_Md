@@ -1,1 +1,297 @@
-const a0_0x1a4b29=a0_0x2d19;(function(_0x56b57a,_0xaa9296){const _0x45c3cf=a0_0x2d19,_0x59fbfd=_0x56b57a();while(!![]){try{const _0x55165d=parseInt(_0x45c3cf(0xad))/0x1*(-parseInt(_0x45c3cf(0x94))/0x2)+parseInt(_0x45c3cf(0xb7))/0x3+parseInt(_0x45c3cf(0x99))/0x4*(-parseInt(_0x45c3cf(0xbe))/0x5)+parseInt(_0x45c3cf(0xc0))/0x6*(-parseInt(_0x45c3cf(0x95))/0x7)+-parseInt(_0x45c3cf(0x7a))/0x8+parseInt(_0x45c3cf(0xb3))/0x9+-parseInt(_0x45c3cf(0x7e))/0xa*(-parseInt(_0x45c3cf(0xc1))/0xb);if(_0x55165d===_0xaa9296)break;else _0x59fbfd['push'](_0x59fbfd['shift']());}catch(_0x3b2deb){_0x59fbfd['push'](_0x59fbfd['shift']());}}}(a0_0x2f5e,0x9bcc8));const {Sticker,StickerTypes}=require(a0_0x1a4b29(0xb4)),{cmd}=require(a0_0x1a4b29(0x9d)),axios=require(a0_0x1a4b29(0x9b)),{getBuffer,getGroupAdmins,getRandom,h2k,isUrl,Json,runtime,sleep,fetchJson,saveConfig,Catbox,monospace}=require('../funcs'),{downloadMediaMessage}=require(a0_0x1a4b29(0x8f)),fs=require('fs'),path=require('path'),ffmpeg=require(a0_0x1a4b29(0xa2)),imgmsg=a0_0x1a4b29(0x86),descg='It\x20converts\x20your\x20replied\x20photo\x20to\x20a\x20sticker.';cmd({'pattern':a0_0x1a4b29(0xb2),'desc':'Generate\x20a\x20sticker\x20from\x20text.','category':a0_0x1a4b29(0x7c),'use':a0_0x1a4b29(0xba),'filename':__filename},async(_0x311796,_0x38cef3,_0x1dc581,{from:_0x557bc4,reply:_0x4e578d,args:_0x4ee2c7,q:_0x168b6})=>{const _0x320a07=a0_0x1a4b29;try{const _0x497f31=_0x4ee2c7[_0x320a07(0x7f)]('\x20');if(!_0x497f31)return _0x4e578d(_0x320a07(0xaa));const _0x1f7393=_0x320a07(0xa4)+encodeURIComponent(_0x497f31),_0x555c54=await require('axios')['get'](_0x1f7393,{'responseType':'arraybuffer'}),_0x5d8b39=_0x555c54[_0x320a07(0xbc)][_0x320a07(0x79)];console[_0x320a07(0xac)](_0x320a07(0xb9),_0x5d8b39);const _0x17752d=_0x320a07(0x82)+Date[_0x320a07(0xa7)]()+_0x320a07(0xb0);fs[_0x320a07(0x8d)](_0x17752d,_0x555c54['data']);const _0xc394bc=new Sticker(_0x17752d,{'pack':global[_0x320a07(0x9e)],'author':global[_0x320a07(0x81)]||'Hacker\x20Only_🥇Empire','type':StickerTypes[_0x320a07(0x89)],'quality':0x64}),_0x24e5e6=await _0xc394bc['toBuffer']();return _0x311796['sendMessage'](_0x557bc4,{'sticker':_0x24e5e6},{'quoted':_0x38cef3});}catch(_0x22ffa2){console[_0x320a07(0x84)](_0x320a07(0xa8),_0x22ffa2),_0x4e578d(_0x320a07(0xab));}}),cmd({'pattern':a0_0x1a4b29(0x7c),'desc':'Change\x20image\x20to\x20sticker.','category':a0_0x1a4b29(0x7c),'use':a0_0x1a4b29(0x92),'filename':__filename},async(_0x2a518e,_0x5d8e17,_0x279707,{from:_0x19a586,reply:_0x21cab3,isCmd:_0xa944bc,command:_0x2ba917,args:_0x267b5f,q:_0x173b01,isGroup:_0x2d1855,pushname:_0x2e132f})=>{const _0x1dcee0=a0_0x1a4b29;try{const _0x2cc889=_0x279707[_0x1dcee0(0x76)]&&(_0x279707[_0x1dcee0(0x76)][_0x1dcee0(0x9a)]===_0x1dcee0(0xa3)||_0x279707[_0x1dcee0(0x76)][_0x1dcee0(0x9a)]===_0x1dcee0(0x85)&&_0x279707['quoted'][_0x1dcee0(0x75)][_0x1dcee0(0x9a)]===_0x1dcee0(0xa3)),_0x224953=_0x279707[_0x1dcee0(0x76)]&&_0x279707[_0x1dcee0(0x76)][_0x1dcee0(0x9a)]==='stickerMessage';if(_0x279707[_0x1dcee0(0x9a)]===_0x1dcee0(0xa3)||_0x2cc889){const _0x4e7ac0=getRandom(_0x1dcee0(0xaf)),_0xbc677c=_0x2cc889?await _0x279707[_0x1dcee0(0x76)]['download']():await _0x279707[_0x1dcee0(0x93)]();await fs['promises'][_0x1dcee0(0x8c)](_0x4e7ac0,_0xbc677c);let _0x5e512b=new Sticker(_0x4e7ac0,{'pack':global['botname'],'author':global[_0x1dcee0(0x81)]||_0x1dcee0(0xb5),'type':_0x173b01[_0x1dcee0(0x7b)](_0x1dcee0(0x8e))||_0x173b01['includes']('-c')?StickerTypes[_0x1dcee0(0x80)]:StickerTypes['FULL'],'categories':['🤩','🎉'],'id':_0x1dcee0(0xbd),'quality':0x4b,'background':_0x1dcee0(0x77)});const _0x5f3339=await _0x5e512b['toBuffer']();return _0x2a518e[_0x1dcee0(0xa9)](_0x19a586,{'sticker':_0x5f3339},{'quoted':_0x5d8e17});}else{if(_0x224953){const _0x46700d=getRandom(_0x1dcee0(0x96)),_0xa7656f=await _0x279707['quoted']['download']();await fs['promises'][_0x1dcee0(0x8c)](_0x46700d,_0xa7656f);let _0x49be91=new Sticker(_0x46700d,{'pack':global[_0x1dcee0(0x9e)],'author':global['devsname']||_0x1dcee0(0xb5),'type':_0x173b01[_0x1dcee0(0x7b)](_0x1dcee0(0x8e))||_0x173b01['includes']('-c')?StickerTypes[_0x1dcee0(0x80)]:StickerTypes[_0x1dcee0(0x89)],'categories':['🤩','🎉'],'id':_0x1dcee0(0xbd),'quality':0x4b,'background':_0x1dcee0(0x77)});const _0xb3e09e=await _0x49be91['toBuffer']();return _0x2a518e[_0x1dcee0(0xa9)](_0x19a586,{'sticker':_0xb3e09e},{'quoted':_0x5d8e17});}else return await _0x21cab3(imgmsg);}}catch(_0x5428e9){_0x21cab3(_0x1dcee0(0x7d)),console[_0x1dcee0(0x84)](_0x5428e9);}}),cmd({'pattern':a0_0x1a4b29(0x87),'desc':a0_0x1a4b29(0x83),'category':a0_0x1a4b29(0x7c),'use':a0_0x1a4b29(0xb8),'filename':__filename},async(_0x2a0799,_0x2b5a5c,_0x16aa8b,{from:_0x136b08,reply:_0x3314c9,isCmd:_0x51fa7f,command:_0x1afb57,args:_0x29b59e,q:_0x23de57,isGroup:_0x29bea2,pushname:_0x357355})=>{const _0x5ff0e9=a0_0x1a4b29;try{const _0xfbf747=_0x16aa8b[_0x5ff0e9(0x76)]&&(_0x16aa8b[_0x5ff0e9(0x76)]['type']===_0x5ff0e9(0xa3)||_0x16aa8b['quoted'][_0x5ff0e9(0x9a)]==='viewOnceMessage'&&_0x16aa8b[_0x5ff0e9(0x76)]['msg'][_0x5ff0e9(0x9a)]===_0x5ff0e9(0xa3)),_0x1e2821=_0x16aa8b[_0x5ff0e9(0x76)]&&_0x16aa8b[_0x5ff0e9(0x76)][_0x5ff0e9(0x9a)]===_0x5ff0e9(0xbb);if(_0x16aa8b[_0x5ff0e9(0x9a)]===_0x5ff0e9(0xa3)||_0xfbf747){const _0x540564=getRandom(_0x5ff0e9(0xaf)),_0x1a7975=_0xfbf747?await _0x16aa8b[_0x5ff0e9(0x76)][_0x5ff0e9(0x93)]():await _0x16aa8b[_0x5ff0e9(0x93)]();await fs['promises'][_0x5ff0e9(0x8c)](_0x540564,_0x1a7975);let _0xe83c4e=new Sticker(_0x540564,{'pack':global[_0x5ff0e9(0x9e)],'author':global[_0x5ff0e9(0x81)]||_0x5ff0e9(0xb5),'type':StickerTypes[_0x5ff0e9(0x9c)],'categories':['🤩','🎉'],'id':_0x5ff0e9(0xbd),'quality':0x4b,'background':_0x5ff0e9(0x77)});const _0x4efd01=await _0xe83c4e[_0x5ff0e9(0x97)]();return _0x2a0799[_0x5ff0e9(0xa9)](_0x136b08,{'sticker':_0x4efd01},{'quoted':_0x2b5a5c});}else{if(_0x1e2821){const _0x5248e6=getRandom('.webp'),_0x2e5b97=await _0x16aa8b[_0x5ff0e9(0x76)][_0x5ff0e9(0x93)]();await fs[_0x5ff0e9(0xb1)][_0x5ff0e9(0x8c)](_0x5248e6,_0x2e5b97);let _0x43e3d0=new Sticker(_0x5248e6,{'pack':global[_0x5ff0e9(0x9e)],'author':global[_0x5ff0e9(0x81)]||_0x5ff0e9(0xb5),'type':StickerTypes[_0x5ff0e9(0x9c)],'categories':['🤩','🎉'],'id':_0x5ff0e9(0xbd),'quality':0x4b,'background':_0x5ff0e9(0x77)});const _0x4b174c=await _0x43e3d0[_0x5ff0e9(0x97)]();return _0x2a0799['sendMessage'](_0x136b08,{'sticker':_0x4b174c},{'quoted':_0x2b5a5c});}else return await _0x3314c9(imgmsg);}}catch(_0x406b09){_0x3314c9('Error\x20!!'),console[_0x5ff0e9(0x84)](_0x406b09);}}),cmd({'pattern':a0_0x1a4b29(0xae),'desc':a0_0x1a4b29(0xbf),'category':'sticker','use':a0_0x1a4b29(0xa0),'filename':__filename},async(_0x320254,_0x5cbf20,_0x3fa0b6,{from:_0x3ee90a,reply:_0x1ce1e4,isCmd:_0x18842b,command:_0x205f36,args:_0x49ce25,q:_0x467269,isGroup:_0xb0c1ff,pushname:_0xcf6b0f})=>{const _0x31fc02=a0_0x1a4b29;try{const _0x4f7cc6=_0x3fa0b6[_0x31fc02(0x76)]&&(_0x3fa0b6['quoted'][_0x31fc02(0x9a)]===_0x31fc02(0xa3)||_0x3fa0b6['quoted'][_0x31fc02(0x9a)]==='viewOnceMessage'&&_0x3fa0b6[_0x31fc02(0x76)][_0x31fc02(0x75)]['type']===_0x31fc02(0xa3)),_0x3ab358=_0x3fa0b6[_0x31fc02(0x76)]&&_0x3fa0b6[_0x31fc02(0x76)][_0x31fc02(0x9a)]===_0x31fc02(0xbb);if(_0x3fa0b6[_0x31fc02(0x9a)]===_0x31fc02(0xa3)||_0x4f7cc6){const _0x348ee6=getRandom(_0x31fc02(0xaf)),_0x29e7e1=_0x4f7cc6?await _0x3fa0b6[_0x31fc02(0x76)]['download']():await _0x3fa0b6[_0x31fc02(0x93)]();await fs['promises']['writeFile'](_0x348ee6,_0x29e7e1);let _0x59996d=new Sticker(_0x348ee6,{'pack':global[_0x31fc02(0x9e)],'author':global[_0x31fc02(0x81)]||_0x31fc02(0xb5),'type':StickerTypes[_0x31fc02(0x80)],'categories':['🤩','🎉'],'id':'12345','quality':0x4b,'background':_0x31fc02(0x77)});const _0xb6d900=await _0x59996d['toBuffer']();return _0x320254[_0x31fc02(0xa9)](_0x3ee90a,{'sticker':_0xb6d900},{'quoted':_0x5cbf20});}else{if(_0x3ab358){const _0x3e1207=getRandom('.webp'),_0x3d0004=await _0x3fa0b6[_0x31fc02(0x76)][_0x31fc02(0x93)]();await fs[_0x31fc02(0xb1)][_0x31fc02(0x8c)](_0x3e1207,_0x3d0004);let _0x3d36d4=new Sticker(_0x3e1207,{'pack':global[_0x31fc02(0x9e)],'author':global[_0x31fc02(0x81)]||_0x31fc02(0xb5),'type':StickerTypes[_0x31fc02(0x80)],'categories':['🤩','🎉'],'id':_0x31fc02(0xbd),'quality':0x4b,'background':'transparent'});const _0x112524=await _0x3d36d4[_0x31fc02(0x97)]();return _0x320254['sendMessage'](_0x3ee90a,{'sticker':_0x112524},{'quoted':_0x5cbf20});}else return await _0x1ce1e4(imgmsg);}}catch(_0x564aa5){_0x1ce1e4(_0x31fc02(0x7d)),console['error'](_0x564aa5);}}),cmd({'pattern':'quoted','desc':a0_0x1a4b29(0xa6),'category':a0_0x1a4b29(0x7c),'use':a0_0x1a4b29(0xa1),'filename':__filename},async(_0xee05e3,_0x3deecc,_0x428204,{from:_0x5c777f,reply:_0x112b85,q:_0x26a029,pushname:_0x2f0f8d})=>{const _0x5d68c8=a0_0x1a4b29;try{if(!_0x26a029)return _0x112b85(_0x5d68c8(0x98));const _0xfa920c=_0x2f0f8d||_0x5d68c8(0x8a),_0x2e24d4=_0x26a029,_0x43445d=await _0xee05e3['profilePictureUrl'](_0x428204[_0x5d68c8(0x91)],'image')[_0x5d68c8(0xb6)](()=>null),_0x14e9c5={'type':_0x5d68c8(0x8b),'format':'png','backgroundColor':'#ffffff','quote':_0x2e24d4,'author':_0xfa920c,'avatar':_0x43445d},_0x12e50a=_0x5d68c8(0x9f)+new URLSearchParams(_0x14e9c5),_0x166226=await getBuffer(_0x12e50a);return _0xee05e3[_0x5d68c8(0xa9)](_0x5c777f,{'sticker':_0x166226},{'quoted':_0x3deecc});}catch(_0x39a713){_0x112b85(_0x5d68c8(0xa5)),console[_0x5d68c8(0x84)](_0x39a713);}}),cmd({'pattern':'circle','desc':a0_0x1a4b29(0x78),'category':a0_0x1a4b29(0x7c),'use':'.circle\x20<Reply\x20to\x20sticker>','filename':__filename},async(_0x156e9f,_0x20d561,_0x477d43,{from:_0x51ba89,reply:_0xcd9b66})=>{const _0x1d5e4d=a0_0x1a4b29;try{const _0x140c0b=_0x477d43[_0x1d5e4d(0x76)]&&_0x477d43[_0x1d5e4d(0x76)][_0x1d5e4d(0x9a)]==='stickerMessage';if(_0x140c0b){const _0x15f820=getRandom(_0x1d5e4d(0x96)),_0x2b7a47=await _0x477d43[_0x1d5e4d(0x76)][_0x1d5e4d(0x93)]();await fs[_0x1d5e4d(0xb1)][_0x1d5e4d(0x8c)](_0x15f820,_0x2b7a47);let _0x178f02=new Sticker(_0x15f820,{'pack':global[_0x1d5e4d(0x9e)],'author':global[_0x1d5e4d(0x81)]||'Hacker\x20Only_🥇Empire','type':StickerTypes[_0x1d5e4d(0x88)],'categories':['🤩','🎉'],'id':_0x1d5e4d(0xbd),'quality':0x4b,'background':'transparent'});const _0x2731f2=await _0x178f02['toBuffer']();return _0x156e9f[_0x1d5e4d(0xa9)](_0x51ba89,{'sticker':_0x2731f2},{'quoted':_0x20d561});}else return await _0xcd9b66(_0x1d5e4d(0x90));}catch(_0x4d1cbb){_0xcd9b66('Error\x20!!'),console[_0x1d5e4d(0x84)](_0x4d1cbb);}});function a0_0x2d19(_0x1bb8ff,_0x56685a){const _0x2f5e0b=a0_0x2f5e();return a0_0x2d19=function(_0x2d1948,_0x33a1e9){_0x2d1948=_0x2d1948-0x75;let _0x5d237=_0x2f5e0b[_0x2d1948];return _0x5d237;},a0_0x2d19(_0x1bb8ff,_0x56685a);}function a0_0x2f5e(){const _0x4ec10f=['1809999iCIAsB','wa-sticker-formatter','Hacker\x20Only_🥇Empire','catch','2406450KkEDuR','.roundsticker\x20<Reply\x20to\x20image>','API\x20Content-Type:','.attp\x20<Text>','stickerMessage','headers','12345','2435HuVWSl','Change\x20image\x20to\x20cropped\x20sticker.','2834742Allayf','10710282gteYgG','msg','quoted','transparent','Change\x20sticker\x20to\x20circle.','content-type','3449184VcmfRw','includes','sticker','Error\x20!!','10DfurgG','join','CROPPED','devsname','./tmp/','Change\x20image\x20to\x20round\x20sticker.','error','viewOnceMessage','Reply\x20to\x20a\x20photo\x20for\x20sticker!','round','CIRCLE','FULL','Unknown','quote','writeFile','writeFileSync','--crop','gifted-baileys','Reply\x20to\x20a\x20sticker\x20to\x20make\x20it\x20circular!','sender','.sticker\x20<Reply\x20to\x20image>','download','10624SzPMMZ','7btGoTj','.webp','toBuffer','Reply\x20to\x20a\x20message\x20to\x20generate\x20a\x20quoted\x20sticker!','1480sekSXb','type','axios','ROUND','../command','botname','https://api.quotely.io/generate?','.cropsticker\x20<Reply\x20to\x20image>','.quoted\x20<Reply\x20to\x20message>','fluent-ffmpeg','imageMessage','https://api.nexoracle.com/image-creating/attp?apikey=MepwBcqIM0jYN0okD&text=','Error\x20generating\x20quoted\x20sticker!','Generate\x20a\x20quoted\x20sticker.','now','Error\x20occurred:','sendMessage','Please\x20provide\x20some\x20text\x20to\x20generate\x20the\x20sticker.','An\x20error\x20occurred\x20while\x20generating\x20the\x20sticker.','log','48UBINcQ','crop','.jpg','.png','promises','attp'];a0_0x2f5e=function(){return _0x4ec10f;};return a0_0x2f5e();}
+//---------------------------------------------
+//           EMPIRE-MD  
+//---------------------------------------------
+//  @project_name : EMPIRE-MD  
+//  @author      : efeurhobobullish
+//  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
+//---------------------------------------------
+const { Sticker, StickerTypes } = require('wa-sticker-formatter');
+const { cmd } = require('../command');
+const axios = require('axios');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson, saveConfig, Catbox, monospace } = require('../funcs');
+const { downloadMediaMessage } = require('baileys');
+const fs = require('fs');
+const path = require('path');
+const ffmpeg = require("fluent-ffmpeg");
+const imgmsg = 'Reply to a photo for sticker!';  
+const descg = 'It converts your replied photo to a sticker.';
+
+cmd({
+    pattern: "attp",
+    desc: "Generate a sticker from text.",
+    category: "sticker",
+    use: ".attp <Text>",
+    filename: __filename
+}, async (conn, mek, m, { from, reply, args, q }) => {
+    try {
+        const text = args.join(" ");
+        if (!text) return reply("Please provide some text to generate the sticker.");
+
+        // Define the API endpoint
+        const apiUrl = `https://api.nexoracle.com/image-creating/attp?apikey=MepwBcqIM0jYN0okD&text=${encodeURIComponent(text)}`;
+
+        // Call the API and get the image
+        const response = await require("axios").get(apiUrl, { responseType: "arraybuffer" });
+
+        // Check content type
+        const contentType = response.headers["content-type"];
+        console.log("API Content-Type:", contentType);
+
+        // Save the image temporarily
+        const imagePath = `./tmp/${Date.now()}.png`;
+        fs.writeFileSync(imagePath, response.data);
+
+        // Convert the image to a proper webp sticker
+        const sticker = new Sticker(imagePath, {
+            pack: global.botname,
+            author: global.devsname || "Hacker Only_🥇Empire",
+            type: StickerTypes.FULL, // Ensure it's a static sticker
+            quality: 100
+        });
+
+        const buffer = await sticker.toBuffer();
+
+        return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+    } catch (e) {
+        console.error("Error occurred:", e);
+        reply("An error occurred while generating the sticker.");
+    }
+});
+//--------------------------------------------
+//    STICKER COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "sticker",
+    desc: "Change image to sticker.",
+    category: "sticker",
+    use: ".sticker <Reply to image>",
+    filename: __filename
+}, async (conn, mek, m, { from, reply, isCmd, command, args, q, isGroup, pushname }) => {
+    try {
+        const isQuotedImage = m.quoted && (m.quoted.type === 'imageMessage' || (m.quoted.type === 'viewOnceMessage' && m.quoted.msg.type === 'imageMessage'));
+        const isQuotedSticker = m.quoted && m.quoted.type === 'stickerMessage';
+
+        if ((m.type === 'imageMessage') || isQuotedImage) {
+            const nameJpg = getRandom('.jpg');
+            const imageBuffer = isQuotedImage ? await m.quoted.download() : await m.download();
+            await fs.promises.writeFile(nameJpg, imageBuffer);
+
+            let sticker = new Sticker(nameJpg, {
+                pack: global.botname, // Use global.botname for the sticker pack
+                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for full stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else if (isQuotedSticker) {
+            const nameWebp = getRandom('.webp');
+            const stickerBuffer = await m.quoted.download();
+            await fs.promises.writeFile(nameWebp, stickerBuffer);
+
+            let sticker = new Sticker(nameWebp, {
+                pack: global.botname, 
+                author: global.devsname || 'Hacker Only_🥇Empire', 
+                type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for full stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else {
+            return await reply(imgmsg); // Return the default message if no image or sticker is found.
+        }
+    } catch (e) {
+        reply('Error !!');
+        console.error(e);
+    }
+});
+//--------------------------------------------
+//  ROUND STICKER COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "round",
+    desc: "Change image to round sticker.",
+    category: "sticker",
+    use: ".roundsticker <Reply to image>",
+    filename: __filename
+}, async (conn, mek, m, { from, reply, isCmd, command, args, q, isGroup, pushname }) => {
+    try {
+        const isQuotedImage = m.quoted && (m.quoted.type === 'imageMessage' || (m.quoted.type === 'viewOnceMessage' && m.quoted.msg.type === 'imageMessage'));
+        const isQuotedSticker = m.quoted && m.quoted.type === 'stickerMessage';
+
+        if ((m.type === 'imageMessage') || isQuotedImage) {
+            const nameJpg = getRandom('.jpg');
+            const imageBuffer = isQuotedImage ? await m.quoted.download() : await m.download();
+            await fs.promises.writeFile(nameJpg, imageBuffer);
+
+            let sticker = new Sticker(nameJpg, {
+                pack: global.botname, // Use global.botname for the sticker pack
+                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                type: StickerTypes.ROUND, // Round sticker type
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for round stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else if (isQuotedSticker) {
+            const nameWebp = getRandom('.webp');
+            const stickerBuffer = await m.quoted.download();
+            await fs.promises.writeFile(nameWebp, stickerBuffer);
+
+            let sticker = new Sticker(nameWebp, {
+                pack: global.botname, // Use global.botname for the sticker pack
+                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                type: StickerTypes.ROUND, // Round sticker type
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for round stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else {
+            return await reply(imgmsg); // Return the default message if no image or sticker is found.
+        }
+    } catch (e) {
+        reply('Error !!');
+        console.error(e);
+    }
+});
+//--------------------------------------------
+// CROP STICKER COMMANDS
+//--------------------------------------------
+cmd({
+    pattern: "crop",
+    desc: "Change image to cropped sticker.",
+    category: "sticker",
+    use: ".cropsticker <Reply to image>",
+    filename: __filename
+}, async (conn, mek, m, { from, reply, isCmd, command, args, q, isGroup, pushname }) => {
+    try {
+        const isQuotedImage = m.quoted && (m.quoted.type === 'imageMessage' || (m.quoted.type === 'viewOnceMessage' && m.quoted.msg.type === 'imageMessage'));
+        const isQuotedSticker = m.quoted && m.quoted.type === 'stickerMessage';
+
+        if ((m.type === 'imageMessage') || isQuotedImage) {
+            const nameJpg = getRandom('.jpg');
+            const imageBuffer = isQuotedImage ? await m.quoted.download() : await m.download();
+            await fs.promises.writeFile(nameJpg, imageBuffer);
+
+            let sticker = new Sticker(nameJpg, {
+                pack: global.botname, // Use global.botname for the sticker pack
+                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                type: StickerTypes.CROPPED, // CROP sticker type
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for cropped stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else if (isQuotedSticker) {
+            const nameWebp = getRandom('.webp');
+            const stickerBuffer = await m.quoted.download();
+            await fs.promises.writeFile(nameWebp, stickerBuffer);
+
+            let sticker = new Sticker(nameWebp, {
+                pack: global.botname, // Use global.botname for the sticker pack
+                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                type: StickerTypes.CROPPED, // CROP sticker type
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for cropped stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else {
+            return await reply(imgmsg); // Return the default message if no image or sticker is found.
+        }
+    } catch (e) {
+        reply('Error !!');
+        console.error(e);
+    }
+});
+
+cmd({
+    pattern: "quoted",
+    desc: "Generate a quoted sticker.",
+    category: "sticker",
+    use: ".quoted <Reply to message>",
+    filename: __filename
+}, async (conn, mek, m, { from, reply, q, pushname }) => {
+    try {
+        if (!q) return reply("Reply to a message to generate a quoted sticker!");
+
+        const userName = pushname || "Unknown"; // Get sender's name from pushname
+        const userMessage = q; // Use q for the quoted text
+        const profilePic = await conn.profilePictureUrl(m.sender, "image").catch(() => null); // Get profile picture
+
+        // Generate the quoted image sticker
+        const quoteData = {
+            type: "quote",
+            format: "png",
+            backgroundColor: "#ffffff",
+            quote: userMessage,
+            author: userName,
+            avatar: profilePic,
+        };
+
+        const quoteUrl = `https://api.quotely.io/generate?${new URLSearchParams(quoteData)}`;
+        const stickerBuffer = await getBuffer(quoteUrl);
+
+        return conn.sendMessage(from, { sticker: stickerBuffer }, { quoted: mek });
+    } catch (e) {
+        reply("Error generating quoted sticker!");
+        console.error(e);
+    }
+});
+
+cmd({
+    pattern: "circle",
+    desc: "Change sticker to circle.",
+    category: "sticker",
+    use: ".circle <Reply to sticker>",
+    filename: __filename
+}, async (conn, mek, m, { from, reply }) => {
+    try {
+        const isQuotedSticker = m.quoted && m.quoted.type === 'stickerMessage';
+
+        if (isQuotedSticker) {
+            const nameWebp = getRandom('.webp');
+            const stickerBuffer = await m.quoted.download();
+            await fs.promises.writeFile(nameWebp, stickerBuffer);
+
+            let sticker = new Sticker(nameWebp, {
+                pack: global.botname, // Use global.botname for the sticker pack
+                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                type: StickerTypes.CIRCLE, // CIRCLE sticker type
+                categories: ['🤩', '🎉'], // Sticker categories
+                id: '12345', // Sticker id
+                quality: 75, // Quality of the sticker
+                background: 'transparent', // Transparent background for circular stickers
+            });
+
+            const buffer = await sticker.toBuffer();
+            return conn.sendMessage(from, { sticker: buffer }, { quoted: mek });
+        } else {
+            return await reply('Reply to a sticker to make it circular!');
+        }
+    } catch (e) {
+        reply('Error !!');
+        console.error(e);
+    }
+});
