@@ -51,7 +51,7 @@ const port = process.env.PORT || 8000;
 async function connectToWA() {
 const connectDB = require('./database/mongodb');
 await connectDB();
-   console.log(" ℹ️ Connecting Please Wait...");
+   console.log(" ℹ️ Connecting Please Wait..");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/');
   var { version } = await fetchLatestBaileysVersion();
 
@@ -77,14 +77,14 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('✅ Login Successful!')
+console.log('✅ Login Successful..')
 const path = require('path');
 fs.readdirSync("./empire/cmds/").forEach((plugin) => {
     if (path.extname(plugin).toLowerCase() == ".js") {
         require("./empire/cmds/" + plugin);
     }
 });
-console.log('⬇️  Installing External Plugins...')
+console.log('⬇️  Installing External Plugins.')
 console.log('✅  External Plugins Installed!')
 
 const events = require('./empire/command');
