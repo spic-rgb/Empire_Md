@@ -20,7 +20,7 @@ global.channelUrl = "https://whatsapp.com/channel/0029VajVvpQIyPtUbYt3Oz0k";
 global.botname = "ᴇᴍᴘɪʀᴇ_ᴍᴅ";
 global.devs = "2348078582627"
 global.devsname = "𝖤𝗆𝗉𝗂𝗋𝖾 𝖳𝖾𝖼𝗁";
-global.apikey = "CBfmvL";
+global.apikey = "JXTO5";
 global.api = "https://api.empiretech.biz.id/api";
 
 
