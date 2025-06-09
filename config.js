@@ -39,5 +39,5 @@ module.exports = {
     OWNER_NAME: process.env.OWNER_NAME || "𝖤𝗆𝗉𝗂𝗋𝖾 𝖳𝖾𝖼𝗁",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "ur number",
     PREFIX: process.env.PREFIX || ".",
-    SESSION_ID: process.env.SESSION_ID || ""
+    SESSION_ID: process.env.SESSION_ID || "OE5VkAoL#wsp4Ic_SN_HotI8GcZHtiyJs8fAO9dVxtmg3oAeVIfA"
 };
